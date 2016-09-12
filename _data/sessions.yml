@@ -1,0 +1,429 @@
+-
+  id: 901
+  title: "Networking Breakfast"
+  place: "Colorado Ballroom Foyer"
+  service: true
+  description: ""
+-
+  id: 902
+  title: "Coffee Break"
+  place: "Hall"
+  service: true
+  description: ""
+-
+  id: 903
+  title: "Lunch (on own)"
+  place: ""
+  service: true
+-
+  id: 904
+  title: "Welcome & Networking Reception"
+  place: ""
+  service: true
+-
+  id: 905
+  title: "Posters & Poster Reception"
+  place: ""
+  service: true
+-
+  id: 001
+  title: "Towards Digitizing Scholarly Communication"
+  description: "Despite the availability of ubiquitous connectivity and information technology, scholarly communication has not changed much in the last
+hundred years: research  ndings are still encoded in and decoded from linear, static articles and the possibilities of digitization are rarely
+used. In this talk, we will discuss strategies for digitizing scholarly communication. This comprises in particular: the use of machine-
+readable, dynamic content; the description and interlinking of research artifacts using Linked Data; the crowd-sourcing of multilingual
+educational and learning content. We discuss the relation of these developments to research information systems and how they could
+become part of an open ecosystem for scholarly communication."
+  subtype: keynote
+  speakers: [1]
+  language: en
+  complexity: "Intermediate"
+  presentation: "http://www.slideshare.net/soeren1611/towards-digitizing-scholarly-communication"
+#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 002
+  title: "Verifiable, Linked Open Knowledge That Anyone can Edit"
+  description: "Fifteen years since the birth of the project, Wikipedia’s vision of a free encyclopedia that anyone can edit has come of age. Today, as one of the top
+10 sources of global traf c to DOIs, Wikipedia is not only a comprehensive, multilingual repository of the world’s knowledge: It is also one of the
+primary entry points to the scholarly literature and a popular vehicle by which scienti c knowledge is disseminated globally. In this talk,
+I’ll showcase a number of ways in which this vision is augmented by Wikidata – the knowledge base that anyone can edit and Wikipedia’s
+fastest growing sister project. By linking source metadata to facts and encyclopedic entries, Wikidata allows scholars, librarians, data curators,
+software developers and volunteer contributors to share in the sum of a new kind of knowledge. I’ll review, in particular, the most recent
+efforts aiming to incorporate into Wikidata a bibliographic repository and an open citation graph, to ensure that linked open knowledge is
+also persistently and transparently veri able."
+  subtype: keynote
+  speakers: [2]
+  language: en
+  complexity: "Intermediate" 
+  presentation: "https://figshare.com/articles/Verifiable_linked_open_knowledge_that_anyone_can_edit/3756399"
+#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 003
+  title: "The Future is Federated"
+  description: "For years, scholars, scientists, and practitioners in various  elds have been told about the importance of open data. Increasingly, many of us have been asked to publish Linked Data as well. While the publication of Linked Data becomes easier—not the least because of VIVO—consumption
+often remains dif cult. As such, we might start to wonder: for whom are we creating Linked Data? In this talk, I will argue the importance of decentralization and federation on the Web. I’ll show with practical examples how we can consume Linked Data and make it work for us, today."
+  subtype: presentation
+  speakers: [3]
+  language: en
+  complexity: "Intermediate" 
+  presentation: "https://figshare.com/articles/The_Future_is_Federated/3680310"
+-
+  id: 004
+  title: "Building Semantic Web Applications Without SPARQL"
+  description: "The Semantic Web offers an approach for integrating heterogeneous data and publishing it using widely-used terminologies to facilitate reuse. Even though SPARQL has been a standard for publishing integrated datasets to application developers since 2010, adoption has been low. Two critical barriers to adoption are the fragility of SPARQL endpoints to heavy loads, and the complexity of the RDF/SPARQL tool-chain. In this talk we present an alternative approach for publishing RDF data using JSON-LD and
+ElasticSearch, a NoSQL data store. Our experience shows that this approach scales to datasets of billions of triples using commodity hardware, supports sub-second query response times for queries commonly used in Web portals, even under heavy loads, and uses a simpler JSON-based tool chain familiar to most software developers."
+  subtype: presentation
+  speakers: [4]
+  language: uk
+  complexity: "Beginner"
+  presentation: "https://figshare.com/articles/Semantic_Web_Without_SPARQL_pdf/3667890"
+#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 005
+  title: "Scholarly Infrastructure, Sustainability, and Community"
+  description: "While VIVO can be understood
+as a platform
+for creating and managing open linked data, paradoxically and in practice, VIVO can still exhibit elements
+of “silo” architecture, often a result of
+the institutional-centric orientation of many existing VIVO installations. In
+an expanding ecosystem of scholarly systems, as well as the cross-institutional nature of scholarly communication, I ask the question, how does VIVO position itself for the future? In its earlier history, VIVO identi ed itself an open source semantic web application for scholarly networking and discovery (Borner, et. al., 2012, p. 4). What does this mean today? What are the present tensions and future opportunities for VIVO in an era when many new players have entered the  eld of scholarly and research infrastructure?"
+  subtype: presentation
+  speakers: [5]
+  language: en
+  complexity: "Expert"
+  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 006
+  title: "Persistent Identifiers: Where we are now and the role of Networking Pro le Systems in Shaping Their Future"
+  description: ""
+  subtype: panel
+  speakers: []
+  language: en
+  complexity: "Expert"
+  presentation: ""
+#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 051
+  title: "Introduction to VIVO: Planning, Policy, and Implementation"
+  description: ""
+  subtype: workshop
+  speakers: []
+  language: en
+  complexity: "Expert"
+#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+-
+  id: 052
+  title: "Getting Data from your VIVO: An Introduction to SPARQL"
+  description: ""
+  subtype: workshop
+  speakers: []
+  language: en
+  complexity: "Expert"
+#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+-
+  id: 053
+  title: "Getting Started with VIVO 1.9: Introduction to the Maven Build Process"
+  description: ""
+  subtype: workshop
+  speakers: []
+  language: en
+  complexity: "Expert"
+#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+-
+  id: 054
+  title: "Data Integration with Karma"
+  description: ""
+  subtype: workshop
+  speakers: []
+  language: en
+  complexity: "Expert"
+#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+-
+  id: 055
+  title: "Linked Data Fragments: Hands-On Publishing and Querying"
+  description: ""
+  subtype: workshop
+  speakers: []
+  language: en
+  complexity: "Expert"
+#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+-
+  id: 056
+  title: "How to Make Your Research Networking System (RNS) Invaluableto Your Institution"
+  description: ""
+  subtype: workshop
+  speakers: []
+  language: en
+  complexity: "Expert"
+#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+-
+  id: 101
+  title: "An Early Look at SHARE Link: VIVO, SHARE, Hydra, and Fedora Together for Research Tracking and Discovery"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: en
+  complexity: "Expert"
+#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+-
+  id: 102
+  title: "Using VIVO and Other Tools to Achieve a Strategic Vision"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: en
+  complexity: "Expert"
+#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+-
+  id: 103
+  title: "Update on ReCiter: An Open Source Author Name Disambiguation System that Leverages Institutionally-Maintained Metadata"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: en
+  complexity: "Expert"
+#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+-
+  id: 104
+  title: "Collaboration through Linking: A Bilateral Project Between University of Florida and Elsevier for Access to Articles by UF Authors"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: en
+  complexity: "Expert"
+#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+-
+  id: 105
+  title: "Streamlining Assessment Exercises and Faculty Activity Reviews"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: en
+  complexity: "Expert"
+#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+-
+  id: 106
+  title: "The VIVO Pump: A New Tool for Data Ingest"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: en
+  complexity: "Expert"
+#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+-
+  id: 107
+  title: "How to Read 100 Million Publications: VIVO and Comprehensive Open Publication Databases"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: en
+  complexity: "Expert"
+#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+-
+  id: 108
+  title: "Examining Federal Expert Networking and the Economies of Scale: Moving the “HHS Pro les” Pilot towards “Experts.gov”"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: en
+  complexity: "Expert"
+#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+-
+  id: 109
+  title: "Publication Data Enrichment at the University of Florida with the Web of ScienceTM"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: en
+  complexity: "Expert"
+#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+-
+  id: 110
+  title: "Optimizing VIVO: Under the Hood of 1.8.1"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: en
+  complexity: "Expert"
+#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+-
+  id: 111
+  title: "The SEO State of the Union 2016: 5 Data-Driven Steps to Make your Research Networking Sites Discoverable by Real Users, Based on Real Google Results"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: en
+  complexity: "Expert"
+#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+-
+  id: 112
+  title: "Linked Data for Libraries (LD4L): Expanding the Linked Data Ecosystem"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: en
+  complexity: "Expert"
+#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+-
+  id: 113
+  title: "Maintenance Queries, Automating the Identi cation and Resolution of Problematic Data in VIVO"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: en
+  complexity: "Expert"
+#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+-
+  id: 114
+  title: "Towards Deeper RNS User Engagement: How to Get Users to Sign in for Personalized Content"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: en
+  complexity: "Expert"
+#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+-
+  id: 115
+  title: "Service-Driven Pro le Linkage – the CTSAsearch/CrossLinks Experience"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: en
+  complexity: "Expert"
+#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+-
+  id: 116
+  title: "Deploying VIVO as a Static Site"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: en
+  complexity: "Expert"
+#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+-
+  id: 117
+  title: "PIMP My VIVO: Creating an ‘Expertise Hub’ with Focused, Responsive Design"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: en
+  complexity: "Expert"
+#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+-
+  id: 118
+  title: "Connect UNAVCO, a VIVO for a Scienti c Community"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: en
+  complexity: "Expert"
+#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+-
+  id: 119
+  title: "Visualizing Virtual Communities in the VIVO Pro le Ecosystem"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: en
+  complexity: "Expert"
+#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+-
+  id: 120
+  title: "Open VIVO: Goals and Results"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: en
+  complexity: "Expert"
+#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+-
+  id: 121
+  title: "Voted Most Popular: Generating CVs from VIVO"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: en
+  complexity: "Expert"
+#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+-
+  id: 122
+  title: "Using VIVO for Scienti c Applications"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: en
+  complexity: "Expert"
+#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+-
+  id: 123
+  title: "Semantically Enabling Figshare as a Basis for Rapid Ontology Implementation and Adoption"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: en
+  complexity: "Expert"
+#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+-
+  id: 124
+  title: "Faceted Searching in Scholars@Duke"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: en
+  complexity: "Expert"
+#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+-
+  id: 125
+  title: "The Citation Impact Tool: Visualizing Research Impact"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: en
+  complexity: "Expert"
+#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+-
+  id: 126
+  title: "Updates from a Registered Service Provider"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: en
+  complexity: "Expert"
+#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+-
+  id: 127
+  title: "Usability vs. Purity: How UCSF and Duke Enabled Data Reuse By Going Beyond Linked Data"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: en
+  complexity: "Expert"
+#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+-
+  id: 201
+  title: "Extending VIVO Infrastructure to Support Linking Information between EarthCollab VIVO Instances"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: en
+  complexity: "Expert"
+#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+-
+  id: 202
+  title: "VIVO for Historical Persons"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: en
+  complexity: "Expert"
+#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+-
+  id: 203
+  title: "VIVO Closing Session"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: en
+  complexity: "Expert"
+#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"

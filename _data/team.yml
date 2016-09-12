@@ -1,0 +1,102 @@
+- 
+  id: 0
+  name: "Julia"
+  surname: "Trimmer"
+  title: "VIVO Conference Chair"
+  thumbnailUrl: JuliaTrimmer.jpg
+  team: true
+- 
+  id: 1
+  name: "Alex"
+  surname: "Viggio"
+  title: "VIVO Conference Co-Chair"
+  thumbnailUrl: AlexViggio.png
+  team: true
+- 
+  id: 2
+  name: "Andi"
+  surname: "Ogier"
+  title: "Sponsorship Co-Chair"
+  thumbnailUrl: AndiOgier.jpg
+  team: true
+- 
+  id: 3
+  name: "Manuel"
+  surname: "de la Cruz Gutierrez"
+  title: "Programme Chair"
+  thumbnailUrl: ManualDeLa.jpg
+  subTeam: true
+#  social: 
+#    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
+#    - {name: "twitter", link: "https://twitter.com/p1f"}
+#    - {name: "site", link: "http://andrusiv.com/"}
+- 
+  id: 4
+  name: "Violeta"
+  surname: "Ilik"
+  title: "Programme Co-Chair"
+  thumbnailUrl: VioletaIlik.jpg
+  subTeam: true
+#  social: 
+#    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+#    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 5
+  name: "Mike"
+  surname: "Conlon"
+  title: "VIVO Project Director"
+  thumbnailUrl: MikeConlon.jpg
+  duraspace: true
+  ribbon: 
+    - {abbr: "VIVO", title: "VIVO Project"}
+#  social: 
+#    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+#    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 6
+  name: "Graham"
+  surname: "Triggs"
+  title: "VIVO Technical Lead"
+  thumbnailUrl: GrahamTriggs.jpg
+  duraspace: true
+  ribbon: 
+    - {abbr: "VIVO", title: "VIVO Project"}
+#  social: 
+#    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+#    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 7
+  name: "Debra"
+  surname: "Hanken Kurtz"
+  title: "Chief Executive Officer"
+  thumbnailUrl: DebraKurtz.jpg
+  duraspace: true
+  ribbon: 
+    - {abbr: "DuraSpace", title: "DuraSpace"}
+#  social: 
+#    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+#    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 8
+  name: "Jonathan"
+  surname: "Markow"
+  title: "Chief Strategy Officer"
+  thumbnailUrl: JonathanMarkow.jpg
+  duraspace: true
+  ribbon: 
+    - {abbr: "DuraSpace", title: "DuraSpace"}
+#  social: 
+#    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+#    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 9
+  name: "Carol"
+  surname: "Minton-Morris"
+  title: "Director of Marketing and Communications"
+  thumbnailUrl: CarolMM.jpg
+  duraspace: true
+  ribbon: 
+    - {abbr: "DuraSpace", title: "DuraSpace"}
+#  social: 
+#    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+#    - {name: "site", link: "http://olostan.name/"}

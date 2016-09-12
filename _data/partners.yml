@@ -1,0 +1,22 @@
+- 
+  group: "Gold Sponsors"
+  elements: 
+    - {name: "Elsevier", description: "Elsevier", link: "https://www.elsevier.com/research-intelligence", imageUrl: "ElsevierLogo.png"}
+    - {name: "Plum Analytics", description: "Plum Analytics", link: "http://plumanalytics.com/", imageUrl: "Plum.jpg"}
+    - {name: "Symplectic", description: "Symplectic", link: "http://symplectic.co.uk/", imageUrl: "SYMPLECTICLogo.png"}
+    - {name: "Thomson Reuters", description: "Thomson Reuters", link: "http://thomsonreuters.com/en/products-services/scholarly-scientific-research.html", imageUrl: "ThomsonReutersLogo.jpg"}
+- 
+  group: "Silver Sponsors"
+  elements: 
+    - {name: "Digital Science", description: "Digital Science", link: "https://www.digital-science.com/", imageUrl: "digital_science_cmyk_wbg002.jpg", width: "120px"}
+    - {name: "Kudos", description: "Kudos", link: "https://www.growkudos.com/", imageUrl: "Kudoslogo.jpg", width: "120px"}
+    - {name: "NETE", description: "NETE", link: "http://www.nete.com/", imageUrl: "NETElogo.gif", width: "120px"}
+- 
+  group: "Institutional Sponsors"
+  elements: 
+    - {name: "Cornell University Library", description: "Cornell University Library", link: "https://www.library.cornell.edu/", imageUrl: "CULibrary.jpg"}
+    - {name: "CU LASP", description: "CU LASP", link: "http://lasp.colorado.edu/", imageUrl: "LASPLogo.jpg"}
+    - {name: "Texas A&M Libraries", description: "Texas A&M Libraries", link: "http://library.tamu.edu/", imageUrl: "TexasAMweblogo.png"}
+    - {name: "CU Boulder", description: "CU Boulder", link: "http://experts.colorado.edu/", imageUrl: "CU-Boulder-logo.jpg"}
+    - {name: "Virginia Tech", description: "Virginia Tech", link: "http://www.lib.vt.edu/", imageUrl: "VT_maroon_cmyk_shld_invt.png"}
+    - {name: "Weill Cornell Medicine", description: "Weill Cornell Medicine", link: "http://weill.cornell.edu/", imageUrl: "WeillCornellMedicalLogo.jpg"}

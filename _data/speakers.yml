@@ -1,0 +1,67 @@
+- 
+  id: 1
+  name: "Sören"
+  surname: "Auer"
+  company: "Universität Bonn & Fraunhofer IAIS"
+  title: "Professor for Enterprise Information Systems"
+  bio: "Sören Auer studied Mathematics and Computer Science in Dresden, Hagen and Yekaterinburg (Russia). In 2006 he obtained his doctorate in Computer Science from Universität Leipzig. From 2006-2008 he worked with the database research group at the University of Pennsylvania, USA. In 2008 he founded AKSW research group at University of Leipzig, which he led till 2013. Currently, he holds the chair for Enterprise Information Systems at University of Bonn and leads a department at Fraunhofer Institute for Analysis and Information Systems (IAIS). Sören's research interests include semantic web technologies, knowledge engineering, software engineering, usability, as well as databases and information systems. He led / is leading several large-scale collaborative research projects such as the European Union’s FP7-ICT flagship project LOD2 comprising 15 partners from 11 countries. Sören is co-founder of several high-impact research and community projects such as the Wikipedia semantification project DBpedia, the OpenCourseWare authoring platform SlideWiki.org (received the OpenCourseware Innovation award) and the spatial data integration platform LinkedGeoData."
+  thumbnailUrl: SorenAuer.jpg
+  rockstar: true
+#  social: 
+#    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+- 
+  id: 2
+  name: "Dario"
+  surname: "Taraborelli"
+  company: "Wikimedia Foundation"
+  title: "Director of Research"
+  bio: 'Dario is a social computing researcher and open knowledge advocate based in San Francisco. He is currently the Director of Research at the Wikimedia Foundation, the non-profit organization that operates Wikipedia and its sister projects. His research spans the behavioral and social aspects of online collaboration and commons-based peer production. As a co-author of the Altmetrics Manifesto and a long-standing open access advocate, he is interested in the design of open systems to promote, track and measure the impact, reuse and discoverability of research objects. Prior to joining the Wikimedia Foundation, he held research and teaching positions at University College London, University of Surrey, Sciences Po, Paris Diderot University, and École Normale Supérieure. He holds a PhD and MSc in Cognitive Science from the École des Hautes Études en Sciences Sociales in Paris, a MA in Philosophy of Science from the University of Pisa, and a licenza from the Scuola Normale Superiore in Pisa. He is the joint recipient of a gold prize in Interactive Visualization from the Information is Beautiful Awards. His work has been featured in various outlets including TechCrunch, the Guardian, the Wall Street Journal, BoingBoing, the Chronicle of Higher Education, The Next Web, and Times Higher Education.'
+  thumbnailUrl: DarioTaraborelli.jpg
+  rockstar: true
+#  social: 
+#    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+#    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+#    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+- 
+  id: 3
+  name: "Ruben"
+  surname: "Verborgh"
+  company: "Ghent University"
+  title: "Semantic Web Researcher"
+  bio: "Dr. Ruben Verborgh is a researcher in semantic hypermedia at Ghent University ­ iMinds, Belgium and a postdoctoral fellow of the Research Foundation Flanders. He explores the connection between Semantic Web technologies and the Web's architectural properties, with the ultimate goal of building more intelligent clients. Along the way, he became fascinated by Linked Data, REST/hypermedia, Web APIs, and related technologies. He's a co-author of two books on Linked Data, and has contributed to more than 150 publications for international conferences and journals on Web-related topics."
+  thumbnailUrl: RubenVerborgh.jpg
+  rockstar: true
+#  ribbon: 
+#    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+#    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+#  social: 
+#    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
+#    - {name: "twitter", link: "https://twitter.com/mherych"}
+- 
+  id: 4
+  name: "Pedro"
+  surname: "Szekely"
+  company: "USC Information Sciences Institute"
+  title: "Research Team Leader"
+  bio: "Dr. Pedro Szekely is a Research Team Leader at the USC Information Sciences Institute (ISI) and a Research Associate Professor at the USC Computer Science Department. Dr. Szekely joined USC in 1988 after receiving his M.S. and Ph.D. degrees in Computer Science from Carnegie Mellon University. His current research focuses on algorithms and tools to acquire and reorganize web content to uncover hidden connections to create domain-specific knowledge graphs. These knowledge graphs enable users to use the web for investigative search to answer questions that are not possible to answer with traditional search engines. These tools are being used to construct knowledge graphs about cultural heritage, weapons trafficking, patent trolls, counterfeit electronics and human trafficking. The knowledge graph for human trafficking has been deployed to victim-support and law enforcement agencies helping them to identify victims and prosecute traffickers."
+  thumbnailUrl: PedroSzekely.jpg
+  rockstar: true
+#  ribbon:
+#    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+#  social: 
+#    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
+#    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+- 
+  id: 5
+  name: "Sandy"
+  surname: "Payette"
+  company: "Cornell University Library"
+  title: "Director of Land Grant and Research IT"
+  bio: "Sandy Payette joined Cornell University Library in January 2016 as the new Director of Land Grant and Research IT. She leads a portfolio of projects that support Cornell University's land-grant mission, with a particular focus on exposing scholarly and scientific resources on the Web by building “knowledge infrastructure.” In her previous work, Sandy was the co-inventor and chief architect of the Fedora digital repository architecture at Cornell Computing and Information Science. She was the founding CEO of DuraSpace before VIVO joined in 2014. DuraSpace is a not-for-profit organization that provides open source technologies and community resources to help preserve the world’s intellectual, cultural, and scientific heritage in digital form.  Sandy also served as Research Investigator at the University of Michigan where she provided leadership in building technologies to support sharing and publication of research data in the context of SEAD, an NSF DataNet partner.  Sandy's educational background is inter-disciplinary, with degrees in computing and information systems, MBA, MS Communication, and currently a PhD candidate at Cornell’s Department of Communication. "
+  thumbnailUrl: SandyPayette.jpg
+  rockstar: true
+#  ribbon:
+#    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+#  social: 
+#    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+#    - {name: "site", link: "http://olostan.name/"}
