@@ -101,7 +101,7 @@ an expanding ecosystem of scholarly systems, as well as the cross-institutional 
   speakers: [6,7,8,9]
   language: en
   complexity: "Expert"
-  presentation: ""
+  presentation: "https://figshare.com/articles/Persistent_Identifiers_Where_are_we_now_and_the_Role_of_Networking_Profile_Systems_in_Shaping_Their_Future/3718740"
 #  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 051
@@ -115,7 +115,7 @@ workshop brings best practices and “lessons learned” from mature VIVO projec
   speakers: [11,12,13,14,15,16]
   language: en
   complexity: "Expert"
-#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+  presentation: "https://dx.doi.org/10.6084/m9.figshare.3749682.v1"
 -
   id: 052
   title: "Getting Data from your VIVO: An Introduction to SPARQL"
@@ -126,7 +126,7 @@ groups will work through simple examples, to moderately complex examples for SPA
   speakers: [9]
   language: en
   complexity: "Expert"
-#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+  presentation: "https://dx.doi.org/10.6084/m9.figshare.3619716.v1"
 -
   id: 053
   title: "Getting Started with VIVO 1.9: Introduction to the Maven Build Process"
@@ -172,7 +172,7 @@ If there is interest, this workshop can be extended with a hackathon later, in w
 #  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
 -
   id: 056
-  title: "How to Make Your Research Networking System (RNS) Invaluableto Your Institution"
+  title: "How to Make Your Research Networking System (RNS) Invaluable to Your Institution"
   description: "This workshop is designed to help institutions build, leverage, and deploy the information within their RNS across the institution. The goal is to increase awareness of, engagement with and dependence on your RNS to solidify the RNS’ roles in supporting researchers. Note that the takeaways from this workshop can be applied to your RNS regardless of the underlying product, and will work for a VIVO, Pro les, “home grown,” or commercial RNS installation.
 This workshop will provide a mix of lecture, discussion, exercises, and templates to enable participants to replicate the successful engagement at UCSF — and avoid our biggest mistakes. Use of this approach has garnered 1.3 million visits a year, 2,800 customized pro les, and 38 outbound data reuse integrations for UCSF Pro les.
 This workshop will discuss ways to make your RNS indispensable in each phase of the implementation:
@@ -219,7 +219,7 @@ why the pairing of these solutions are stronger together than apart. It will als
   speakers: [23]
   language: en
   complexity: "Expert"
-#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+  presentation: "https://dx.doi.org/10.6084/m9.figshare.3652707.v1"
 -
   id: 102
   title: "Using VIVO and Other Tools to Achieve a Strategic Vision"
@@ -241,7 +241,7 @@ How is all of this enabling Texas A&M to measure progress toward its strategic g
   speakers: [24,6,25,26]
   language: en
   complexity: "Expert"
-#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+  presentation: "https://dx.doi.org/10.6084/m9.figshare.3759189.v1"
 -
   id: 103
   title: "Update on ReCiter: An Open Source Author Name Disambiguation System that Leverages Institutionally-Maintained Metadata"
@@ -250,10 +250,10 @@ At the 2015 VIVO Conference, we presented ReCiter, a Java-based tool which uses 
 ReCiter employs 15 separate strategies for disambiguation. The range of data used spans six systems of records: Of ce of Faculty Affairs, Human Resources, alumni database, student database, physician pro le system, and the grants management system. For our test set of data, we have established which data are most powerful in contributing to overall accuracy. These include: known co- investigators, known department, and year of doctoral degree.
 Our team has designed ReCiter to be generalizable. Our goal is to determine if the high accuracy we note can be achieved at other sites. The code will be shared with the community."
   subtype: presentation
-  speakers: [11]
+  speakers: [27,28,29,11]
   language: en
   complexity: "Expert"
-#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+  presentation: "https://dx.doi.org/10.6084/m9.figshare.3750003.v1"
 -
   id: 104
   title: "Collaboration through Linking: A Bilateral Project Between University of Florida and Elsevier for Access to Articles by UF Authors"
@@ -267,10 +267,10 @@ to expand access to scholarly publications reporting on funded research— desig
 The overall goals of this project are for the Libraries to provide an infrastructure to assist with researcher compliance, provide CHORUS and the participating publishers a
 better understanding of the information needed by institutional repositories for tracking and reporting on compliance, and further increase discoverability of scholarship through potential linkages with VIVO@UF. This presentation will give an overview of how embargo periods will be handed and accessibility addressed when a user does not have access to subscribed content, and will also outline the bene ts of the partnership which includes reduced faculty burden, facilitated compliance reporting, increased visibility and accessibility, and additional institutional linkages supporting contextualization of research."
   subtype: presentation
-  speakers: []
+  speakers: [30,31,32]
   language: en
   complexity: "Expert"
-#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+  presentation: "https://dx.doi.org/10.6084/m9.figshare.3792090.v1"
 -
   id: 105
   title: "Streamlining Assessment Exercises and Faculty Activity Reviews"
@@ -282,10 +282,10 @@ The latest major release of Elements, Symplectic’s leading Research Informatio
 This presentation will explore how this module offers a signi cant new repurpose of
 institutional data. Complementing our long- standing relationship with VIVO, Symplectic is continually committed to semantically linking previously siloed data; knowing that this data is only useful when it can be reused throughout an institution freeing faculty from burdensome reentry."
   subtype: presentation
-  speakers: []
+  speakers: [33,34,35]
   language: en
   complexity: "Expert"
-#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+  presentation: "https://dx.doi.org/10.6084/m9.figshare.3581253.v1"
 -
   id: 106
   title: "The VIVO Pump: A New Tool for Data Ingest"
@@ -298,7 +298,7 @@ examples of its use to manage data in VIVO. The Pump is fully documented in on-l
   speakers: [9]
   language: en
   complexity: "Expert"
-#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+  presentation: "https://dx.doi.org/10.6084/m9.figshare.3639639.v1"
 -
   id: 107
   title: "How to Read 100 Million Publications: VIVO and Comprehensive Open Publication Databases"
@@ -312,7 +312,7 @@ of data and services that local VIVO sites would focus on? The goal of this sess
   speakers: []
   language: en
   complexity: "Expert"
-#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+  presentation: "https://dx.doi.org/10.6084/m9.figshare.3792099.v1"
 -
   id: 108
   title: "Examining Federal Expert Networking and the Economies of Scale: Moving the “HHS Profiles” Pilot towards “Experts.gov”"
@@ -323,7 +323,7 @@ The team presented the project plan at the VIVO 2015 Conference, and returns to 
   speakers: []
   language: en
   complexity: "Expert"
-#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+  presentation: "https://dx.doi.org/10.6084/m9.figshare.3792111.v1"
 -
   id: 109
   title: "Publication Data Enrichment at the University of Florida with the Web of ScienceTM"
@@ -333,7 +333,7 @@ to automate processes and to add unique identi ers to existing publications. We 
   speakers: []
   language: en
   complexity: "Expert"
-#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+  presentation: "https://dx.doi.org/10.6084/m9.figshare.3774444.v1"
 -
   id: 110
   title: "Optimizing VIVO: Under the Hood of 1.8.1"
@@ -345,7 +345,7 @@ In this talk, I will show how using a pro ler identi ed areas of concern, the st
   speakers: [10]
   language: en
   complexity: "Expert"
-#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+  presentation: "https://dx.doi.org/10.6084/m9.figshare.3593283.v2"
 -
   id: 111
   title: "The SEO State of the Union 2016: 5 Data-Driven Steps to Make your Research Networking Sites Discoverable by Real Users, Based on Real Google Results"
@@ -357,7 +357,7 @@ We will present  ve key  ndings into the real- world factors that impact search 
   speakers: [19]
   language: en
   complexity: "Expert"
-#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+  presentation: "https://dx.doi.org/10.6084/m9.figshare.3792096.v1"
 -
   id: 112
   title: "Linked Data for Libraries (LD4L): Expanding the Linked Data Ecosystem"
@@ -372,7 +372,7 @@ LD4L Labs and LD4P will be looking at using VIVO pro les as local authorities du
   speakers: []
   language: en
   complexity: "Expert"
-#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+  presentation: "https://dx.doi.org/10.6084/m9.figshare.3758931.v2"
 -
   id: 113
   title: "Maintenance Queries, Automating the Identification and Resolution of Problematic Data in VIVO"
@@ -391,7 +391,7 @@ We will describe a reusable toolkit we have developed that utilizes SPARQL based
   speakers: [18]
   language: en
   complexity: "Expert"
-#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+  presentation: "https://dx.doi.org/10.6084/m9.figshare.3792105.v1"
 -
   id: 115
   title: "Service-Driven Profile Linkage – the CTSAsearch/CrossLinks Experience"
@@ -411,7 +411,7 @@ CTSAsearch and CrossLinks demonstrate that substantial value can be added to the
   speakers: [20]
   language: en
   complexity: "Expert"
-#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+  presentation: "https://dx.doi.org/10.6084/m9.figshare.3756906.v1"
 -
   id: 116
   title: "Deploying VIVO as a Static Site"
@@ -421,7 +421,7 @@ a process for building a research discovery website from VIVO's data model but d
   speakers: []
   language: en
   complexity: "Expert"
-#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+  presentation: "https://dx.doi.org/10.6084/m9.figshare.3811407.v1"
 -
   id: 117
   title: "PIMP My VIVO: Creating an ‘Expertise Hub’ with Focused, Responsive Design"
@@ -431,10 +431,10 @@ early adopter phase and ‘go live’ with their own VIVO. As Registered Service
 Institutions who adopt VIVO still struggle to  nd a focus for the ‘stock’ version. For it to be an effective showcase of an institution’s data, there needs to be consideration of usability and design to realise its full potential, to make it
 a true centre of the expertise of an institution. Many institutions do not always have the resource or expertise to achieve this."
   subtype: presentation
-  speakers: [8]
+  speakers: [8,36,35]
   language: en
   complexity: "Expert"
-#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+  presentation: "https://dx.doi.org/10.6084/m9.figshare.3798105.v1"
 -
   id: 118
   title: "Connect UNAVCO, a VIVO for a Scientific Community"
@@ -451,7 +451,7 @@ a link to the data archive, and the station’s principal investigators. Another
   speakers: []
   language: en
   complexity: "Expert"
-#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+  presentation: "https://dx.doi.org/10.6084/m9.figshare.3701292.v3"
 -
   id: 119
   title: "Visualizing Virtual Communities in the VIVO Profile Ecosystem"
@@ -468,7 +468,7 @@ Inter-institutional community visualization Focusing on community detection in t
   speakers: []
   language: en
   complexity: "Expert"
-#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+  presentation: "https://dx.doi.org/10.6084/m9.figshare.3756894.v1"
 -
   id: 120
   title: "Open VIVO: Goals and Results"
@@ -479,7 +479,7 @@ a daily basis. In this panel, participants in the Open VIVO project will share t
   speakers: [9]
   language: en
   complexity: "Expert"
-#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+  presentation: "https://dx.doi.org/10.6084/m9.figshare.3680718.v2"
 -
   id: 121
   title: "Voted Most Popular: Generating CVs from VIVO"
@@ -491,7 +491,7 @@ With the help of the APT committee and the VIVO widgets, users can generate (cli
   speakers: [15,21,22]
   language: en
   complexity: "Expert"
-#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+  presentation: "https://dx.doi.org/10.6084/m9.figshare.3466265.v3"
 -
   id: 122
   title: "Using VIVO for Scientific Applications"
@@ -507,7 +507,7 @@ The panel will be organized to engage the audience in questions about VIVO’s a
   speakers: []
   language: en
   complexity: "Expert"
-#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+  presentation: "https://dx.doi.org/10.6084/m9.figshare.3753258.v1"
 -
   id: 123
   title: "Semantically Enabling Figshare as a Basis for Rapid Ontology Implementation and Adoption"
@@ -547,7 +547,7 @@ Our proposed enhancement of the Scholars@ Duke search functionality seeks to add
   speakers: [15]
   language: en
   complexity: "Expert"
-#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+  presentation: "https://dx.doi.org/10.6084/m9.figshare.3611484.v1"
 -
   id: 125
   title: "The Citation Impact Tool: Visualizing Research Impact"
@@ -560,10 +560,10 @@ than one category, the percentile rank of times cited is calculated separately a
 is then calculated and, in turn, used in the bar chart. Because recently published articles have had little time to accumulate citations, articles from the past two to three years are deliberately excluded from the charts.
 The code will be shared with the community"
   subtype: presentation
-  speakers: [11]
+  speakers: [27,11]
   language: en
   complexity: "Expert"
-#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+  presentation: "https://dx.doi.org/10.6084/m9.figshare.3792600.v3"
 -
   id: 126
   title: "Updates from a Registered Service Provider"
@@ -571,7 +571,7 @@ The code will be shared with the community"
 Symplectic is also a registered service provider for Pro les RNS, the open source Semantic Web research networking platform based on the VIVO ontology.
 This presentation will re ect on Symplectic’s second year as a Registered Service Provider, showcasing the projects we have supported for both VIVO and Pro les RNS, including institutions outside the US - covering installations, data analysis, data population, customisation, and hosting. As well as our current engagements, we will introduce a number of new initiatives we plan to introduce in support of both open source communities."
   subtype: presentation
-  speakers: []
+  speakers: [37,38,35]
   language: en
   complexity: "Expert"
 #  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
@@ -583,7 +583,7 @@ This presentation will re ect on Symplectic’s second year as a Registered Serv
   speakers: [15,19,20,21,18]
   language: en
   complexity: "Expert"
-#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+  presentation: "https://dx.doi.org/10.6084/m9.figshare.3792180.v1"
 -
   id: 201
   title: "Extending VIVO Infrastructure to Support Linking Information between EarthCollab VIVO Instances"
@@ -609,7 +609,7 @@ to preserve the receiving VIVO instance’s brand and to handle discrepancies be
   speakers: [5]
   language: en
   complexity: "Expert"
-#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+  presentation: "https://dx.doi.org/10.6084/m9.figshare.3725442.v1"
 -
   id: 202
   title: "VIVO for Historical Persons"
@@ -633,7 +633,7 @@ to represent, facilitate discovery of, and share linked data about historical pe
   speakers: [16]
   language: en
   complexity: "Expert"
-#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+  presentation: "https://dx.doi.org/10.6084/m9.figshare.3749610.v3"
 -
   id: 203
   title: "VIVO Closing Session"
@@ -642,4 +642,4 @@ to represent, facilitate discovery of, and share linked data about historical pe
   speakers: []
   language: en
   complexity: "Expert"
-#  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
+  presentation: "https://dx.doi.org/10.6084/m9.figshare.3703428.v1"
