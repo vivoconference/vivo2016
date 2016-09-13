@@ -107,3 +107,11 @@ Simon was the the program chair of the third annual VIVO conference held in Miam
   bio: "Dr. Michael Conlon is an Emeritus Faculty member of the University of Florida and serves
 as VIVO Project Director for Duraspace. Dr. Conlon formerly served as Co-director of the University of Florida Clinical and Translational Science Institute, and as Director of Biomedical Informatics, UF College of Medicine. His responsibilities included expansion and integration of research and clinical resources, and strategic planning for translational research. Previously, Dr. Conlon served as PI of the VIVO project, leading a team of 180 investigators at seven schools in the development, implementation and advancement of an open source, semantic web application for research discovery. Dr. Conlon has served as Chief Information Of cer of the University of Florida Health Science Center where he directed network and video services, desktop support, media and graphics, application development, teaching support, strategic planning and distance learning. His current interests include representation of scholarship, and research data sharing and reuse."
   thumbnailUrl: MikeConlon.jpg
+-
+  id: 10
+  name: "Graham"
+  surname: "Triggs"
+  company: "VIVO"
+  title: "Technical Lead"
+  bio: ""
+  thumbnailUrl: GrahamTriggs.jpg

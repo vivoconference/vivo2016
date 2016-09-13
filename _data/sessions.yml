@@ -39,7 +39,7 @@ become part of an open ecosystem for scholarly communication."
   language: en
   complexity: "Intermediate"
   presentation: "http://www.slideshare.net/soeren1611/towards-digitizing-scholarly-communication"
-#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://www.youtube.com/embed/hdQHqfoehiU"
 -
   id: 002
   title: "Verifiable, Linked Open Knowledge That Anyone can Edit"
@@ -50,13 +50,13 @@ I’ll showcase a number of ways in which this vision is augmented by Wikidata �
 fastest growing sister project. By linking source metadata to facts and encyclopedic entries, Wikidata allows scholars, librarians, data curators,
 software developers and volunteer contributors to share in the sum of a new kind of knowledge. I’ll review, in particular, the most recent
 efforts aiming to incorporate into Wikidata a bibliographic repository and an open citation graph, to ensure that linked open knowledge is
-also persistently and transparently veri able."
+also persistently and transparently verifiable."
   subtype: keynote
   speakers: [2]
   language: en
   complexity: "Intermediate" 
   presentation: "https://figshare.com/articles/Verifiable_linked_open_knowledge_that_anyone_can_edit/3756399"
-#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://www.youtube.com/embed/HheBcPrsnjg"
 -
   id: 003
   title: "The Future is Federated"
@@ -123,7 +123,7 @@ workshop brings best practices and “lessons learned” from mature VIVO projec
 Attendees will work in groups, and the
 groups will work through simple examples, to moderately complex examples for SPARQL queries for real-world examples of using VIVO data. Attendees will learn how to export data returned by SPARQL queries to spreadsheets for subsequent data analysis, tabulation or visualization. This is an introductory workshop, no prior knowledge of SPARQL, RDF, or the VIVO ontologies is needed to participate. Following the workshop, attendees will be able to read VIVO ontology diagrams, and use these diagrams to write and run SPARQL queries on their VIVOs."
   subtype: workshop
-  speakers: []
+  speakers: [9]
   language: en
   complexity: "Expert"
 #  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
@@ -137,7 +137,7 @@ user approaching the project from a Maven perspective, with an expectation of a 
 This half-day workshop will help people understand how the project structure has changed in VIVO 1.9, and to show them
 how to adapt their existing codebases when upgrading. It will also provide an introduction to the Maven project layout for new users, and show them how they can make effective use of Maven when creating a new VIVO implementation."
   subtype: workshop
-  speakers: []
+  speakers: [10]
   language: en
   complexity: "Expert"
 #  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
@@ -295,7 +295,7 @@ the Pump include 'enumerations' -- simple translation tables that allow the Pump
 of ontologies to manage any graph data as spreadsheets. In this talk, we will describe the design goals of the Pump and provide
 examples of its use to manage data in VIVO. The Pump is fully documented in on-line resources, as well as PDF and eBook formats. The Pump is open source software, made freely available under the Apache License."
   subtype: presentation
-  speakers: []
+  speakers: [9]
   language: en
   complexity: "Expert"
 #  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
@@ -342,7 +342,7 @@ The release of 1.8.1 managed to not just reverse the performance loss, but to ga
 In this talk, I will show how using a pro ler identi ed areas of concern, the strategies that were applied to improve the performance
 - including some signi cant changes to the models cached in the application layer - and some tips for thinking about performance when customizing or developing for VIVO."
   subtype: presentation
-  speakers: []
+  speakers: [10]
   language: en
   complexity: "Expert"
 #  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
@@ -476,7 +476,7 @@ Inter-institutional community visualization Focusing on community detection in t
 a new contribution ontology, new interactive elements, new datasets of RDF for VIVO, and new reuse elements. Open VIVO provides an opportunity for every scholar to participate in an immediate way, to add data and indicate contribution to scholarly works, and to provide data in a truly open and accessible manner on
 a daily basis. In this panel, participants in the Open VIVO project will share their views on the project, its goals and results. Elements of Open VIVO will be ported to future versions of VIVO. Implications of Open VIVO for VIVO will be discussed."
   subtype: presentation
-  speakers: []
+  speakers: [9]
   language: en
   complexity: "Expert"
 #  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
