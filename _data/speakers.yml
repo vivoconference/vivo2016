@@ -65,3 +65,45 @@
 #  social: 
 #    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
 #    - {name: "site", link: "http://olostan.name/"}
+-
+  id: 6
+  name: "Laurel"
+  surname: "Haak"
+  company: "ORCID"
+  title: "Executive Director"
+  bio: "Dr. Laurel Haak drives awareness of the ORCID mission, building strategic relationships, working with a broad range of constituents, ensuring organizational persistence, and directing ORCID staff and contractors. Previously, Laure was Chief Science Of cer at Discovery Logic, Inc.; a program
+of cer for the US National Academies' Committee on Science, Engineering, and Public Policy; and editor of Science's Next Wave Postdoc Network at the American Association for the Advancement
+of Science. Laure received a BS and an MS in Biology from Stanford University and a PhD in Neuroscience in 1997 from Stanford University Medical School, and she was a postdoc at the US
+National Institutes of Health."
+  thumbnailUrl: LaurelHaak.jpg
+-
+  id: 7
+  name: "Jennifer"
+  surname: "Lin"
+  company: "CrossRef"
+  title: "Director of Project Management"
+  bio: "Dr. Jennifer Lin has  fteen years’ experience in product development, project management, community outreach, and change management within scholarly communications, education, and the public sector. She joins Crossref after four years at the Public Library of Science (PLOS) where she oversaw product strategy and development for their data program, article- level metrics initiative, and open assessment activities. Prior to PLOS, she was a consultant with Accenture working with public sector and Fortune 500 companies to develop and deploy new products and services. Jennifer earned her PhD at Johns Hopkins University. She can be reached via twitter @jenniferlin15 or email jlin@crossref.org."
+  thumbnailUrl: JenniferLin.jpg
+  social: 
+    - {name: "twitter", link: "http://twitter.com/jenniferlin15"}
+-
+  id: 8
+  name: "Simon"
+  surname: "Porter"
+  company: "Digital Science"
+  title: "VP Academic Relationships & Knowledge Architecture"
+  bio: "Simon Porter comes to Digital Science from the University of Melbourne, where he has worked for the past 15 years in roles that span the Library, Research Administration, and Information
+Technology. Beginning from a core strength in the understanding of how information on research is collected, Simon has forged a career transforming University practices in how
+data about research is used, both from administrative and eResearch perspectives. In addition to making key contributions to research information visualization and discovery within the University, Simon is well known for his advocacy of Research Pro ling Systems and their
+capability to create new opportunities for researchers. Over the past three years, Simon has established and run the annual Australasian conference on research pro ling. In 2012,
+Simon was the the program chair of the third annual VIVO conference held in Miami."
+  thumbnailUrl: SimonPorter.jpg
+-
+  id: 9
+  name: "Mike"
+  surname: "Conlon"
+  company: "VIVO"
+  title: "Project Director"
+  bio: "Dr. Michael Conlon is an Emeritus Faculty member of the University of Florida and serves
+as VIVO Project Director for Duraspace. Dr. Conlon formerly served as Co-director of the University of Florida Clinical and Translational Science Institute, and as Director of Biomedical Informatics, UF College of Medicine. His responsibilities included expansion and integration of research and clinical resources, and strategic planning for translational research. Previously, Dr. Conlon served as PI of the VIVO project, leading a team of 180 investigators at seven schools in the development, implementation and advancement of an open source, semantic web application for research discovery. Dr. Conlon has served as Chief Information Of cer of the University of Florida Health Science Center where he directed network and video services, desktop support, media and graphics, application development, teaching support, strategic planning and distance learning. His current interests include representation of scholarship, and research data sharing and reuse."
+  thumbnailUrl: MikeConlon.jpg

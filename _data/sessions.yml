@@ -98,7 +98,7 @@ an expanding ecosystem of scholarly systems, as well as the cross-institutional 
   title: "Persistent Identifiers: Where we are now and the role of Networking Pro le Systems in Shaping Their Future"
   description: ""
   subtype: panel
-  speakers: []
+  speakers: [6,7,8,9]
   language: en
   complexity: "Expert"
   presentation: ""
@@ -106,7 +106,11 @@ an expanding ecosystem of scholarly systems, as well as the cross-institutional 
 -
   id: 051
   title: "Introduction to VIVO: Planning, Policy, and Implementation"
-  description: ""
+  description: "New to VIVO as a new team member or part of a new implementation? What is VIVO all about? How did VIVO evolve and what bene ts does it offer to researchers, to institutions, and to the global community?
+This workshop provides an institutional perspective from others who have worked
+with VIVO. You’ll meet six VIVO community members with years of experience with VIVO at different institutions. The presenters will talk about how VIVO is used in their organizations, where the data come from, how VIVO is managed, and how to feed downstream systems. You’ll learn how to  nd the right resources as a new VIVO implementation
+— data sources, team members, governance models, and support structures. This
+workshop brings best practices and “lessons learned” from mature VIVO projects to new implementations. We’ll help you craft your messages to different stakeholders, so you’ll leave this workshop knowing how to talk about VIVO to everyone from your provost to faculty members to web developers."
   subtype: workshop
   speakers: []
   language: en
@@ -115,7 +119,9 @@ an expanding ecosystem of scholarly systems, as well as the cross-institutional 
 -
   id: 052
   title: "Getting Data from your VIVO: An Introduction to SPARQL"
-  description: ""
+  description: "One of VIVO’s greatest strengths is its ability to provide all its data for reuse. This workshop will introduce the attendees to SPARQL (SPARQL Protocol and RDF Query Language), the W3C standard for querying RDF data. VIVO comes with SPARQL ready for use. SPARQL will be introduced as well as the basic concepts needed to get data from VIVO, such as Resource Description Framework (RDF), URI (Uniform Resource Identi er) and the VIVO ontologies. Each will be explained in simple terms and reinforced by example.
+Attendees will work in groups, and the
+groups will work through simple examples, to moderately complex examples for SPARQL queries for real-world examples of using VIVO data. Attendees will learn how to export data returned by SPARQL queries to spreadsheets for subsequent data analysis, tabulation or visualization. This is an introductory workshop, no prior knowledge of SPARQL, RDF, or the VIVO ontologies is needed to participate. Following the workshop, attendees will be able to read VIVO ontology diagrams, and use these diagrams to write and run SPARQL queries on their VIVOs."
   subtype: workshop
   speakers: []
   language: en
@@ -124,7 +130,12 @@ an expanding ecosystem of scholarly systems, as well as the cross-institutional 
 -
   id: 053
   title: "Getting Started with VIVO 1.9: Introduction to the Maven Build Process"
-  description: ""
+  description: "Following the 1.8.1 release of VIVO, the
+build environment was migrated from the existing Ant scripts, to using the Maven project descriptors. This brings a number of bene ts: it’s a more immediately-familiar environment for many Java developers. Modern IDEs can read the project description and immediately set up the environment automatically, and we’re able to better declare and manage the dependencies. However, in order to make
+the project look and feel familiar to a new
+user approaching the project from a Maven perspective, with an expectation of a standard project layout, the structure of the Vitro/VIVO projects needs to change slightly.
+This half-day workshop will help people understand how the project structure has changed in VIVO 1.9, and to show them
+how to adapt their existing codebases when upgrading. It will also provide an introduction to the Maven project layout for new users, and show them how they can make effective use of Maven when creating a new VIVO implementation."
   subtype: workshop
   speakers: []
   language: en
@@ -133,7 +144,15 @@ an expanding ecosystem of scholarly systems, as well as the cross-institutional 
 -
   id: 054
   title: "Data Integration with Karma"
-  description: ""
+  description: "The VIVO platform has been designed to lower barriers for data interchange and re-use by standard data formats, ontologies, and identi ers consistent with Semantic Web
+best practices. The workshop will introduce the basic functionalities of Karma data integration tool and provide attendees with hands on training. Attendees will learn how to provide ontologies to Karma, how to load data, how to de ne URIs, how to transform data using Python scripts, how to map the data to the ontology, how to save, reuse and share mapping  les, and how to produce RDF and JSON. No prior knowledge of semantic technologies will be assumed.
+Implementing a researcher pro le system involves aggregating data from a variety of sources. Data needs to be mapped, cleaned and maintained. Participants will utilize the presented tools to:
+• Model data in a variety of formats with the help of established ontologies (FOAF, FABIO, CITO, BIBO, SKOS, VIVO-ISF)
+• Understand the use of Web Ontology Language (OWL)
+• Create RDF data for use in ontology driven applications
+We will begin with lectures and continue with hands-on demonstration and experimentation. The lectures are designed to help participants gain experience and knowledge of researcher pro ling systems, importance of ontologies,
+a language for expressing customized mappings from relational databases to RDF datasets (R2RML), the advantage Karma data integration tool offers in transforming data into semantic web compliant data.
+The workshop will help participants in planning for an organization’s efforts to move existing data into ontology driven applications, like VIVO, to uniquely represent the scholarly outputs of researchers in their institutions and beyond."
   subtype: workshop
   speakers: []
   language: en
@@ -142,7 +161,10 @@ an expanding ecosystem of scholarly systems, as well as the cross-institutional 
 -
   id: 055
   title: "Linked Data Fragments: Hands-On Publishing and Querying"
-  description: ""
+  description: "Linked Data on the Web—how can we use it, and how can we publish it?
+This workshop explores different interfaces to Linked Data using the Linked Data Fragments conceptual framework. There are two main aims of this session: learning to consume existing Linked Data from the Web, and publishing your own dataset using a low-cost interface. Additionally, we will build small applications in the browser that make use of Linked Data.
+This session is aimed at participants with a technical background, as we will get into the details of Linked Data publication and querying. However, people with a broader interest are also welcome, as participants can work together in groups. If you want to learn what roles Linked Data can play in your organization on a very practical level, this workshop is de nitely for you.
+If there is interest, this workshop can be extended with a hackathon later, in which people can build prototype applications on top of live Linked Data on the Web."
   subtype: workshop
   speakers: []
   language: en
@@ -151,7 +173,25 @@ an expanding ecosystem of scholarly systems, as well as the cross-institutional 
 -
   id: 056
   title: "How to Make Your Research Networking System (RNS) Invaluableto Your Institution"
-  description: ""
+  description: "This workshop is designed to help institutions build, leverage, and deploy the information within their RNS across the institution. The goal is to increase awareness of, engagement with and dependence on your RNS to solidify the RNS’ roles in supporting researchers. Note that the takeaways from this workshop can be applied to your RNS regardless of the underlying product, and will work for a VIVO, Pro les, “home grown,” or commercial RNS installation.
+This workshop will provide a mix of lecture, discussion, exercises, and templates to enable participants to replicate the successful engagement at UCSF — and avoid our biggest mistakes. Use of this approach has garnered 1.3 million visits a year, 2,800 customized pro les, and 38 outbound data reuse integrations for UCSF Pro les.
+This workshop will discuss ways to make your RNS indispensable in each phase of the implementation:
+Setting the Stage
+• Auto-added data: add as much data as possible to your RNS - publications, grants, photos, news stories, etc.
+• Google Analytics - the crucial substrate
+• Pre-packaging of publications, people and connections • APIs to make the data available
+• Targeting and messaging decision makers appropriately
+Dress Rehearsal
+• User support - answer the emails!
+• Senior leadership support
+• Deploy APIs to power other websites • Search engine optimization
+Opening Night & The Season
+• Engagement email campaigns
+• Bootcamps and department meetings
+• Finding and catering to the “power users”
+• Iterative process of growing user base/traf c and providing more data/features
+After Party
+• Wrapping it all up to show the value of your RNS in an executive level report for the higher administration"
   subtype: workshop
   speakers: []
   language: en
@@ -160,7 +200,21 @@ an expanding ecosystem of scholarly systems, as well as the cross-institutional 
 -
   id: 101
   title: "An Early Look at SHARE Link: VIVO, SHARE, Hydra, and Fedora Together for Research Tracking and Discovery"
-  description: ""
+  description: "As an extension of the Linked Data for Libraries project (LD4L) and parallel work to integrate VIVO and SHARE, the Hesburgh Libraries at the University of Notre Dame
+is working to link Fedora 4, Hydra, VIVO,
+and SHARE together to further realize the paradigm proposed within LD4L with a focus on research lifecycle events. This project dubbed SHARE Link is focused towards two primary aims desired by many institutions: institution level research activity tracking, curation, and sharing; enhanced search, browse and discovery of research events and related materials.
+Subsequently, bringing SHARE, VIVO, and Fedora 4 together makes it possible to create
+a dashboard of research events including
+links to repository materials. In turn, the metadata in each system are enriched in
+ways not possible with any one solution. The underlying uni ed research and repository information graph (between Fedora and VIVO) will also allow browsing the virtual shelves
+of repository materials across venue, subject, and other person af nities like specialization, institution, or co-authors. It will allow creating a recommendation list when viewing a related work. While wider adoption within the Fedora community will be sought, this effort is initially focused on developing a reference implementation of VIVO paired with an Institutional Repository utilizing the Hydra Framework on top of Fedora 4.
+This presentation will describe progress to
+date in the early life of this project. It will explore the relevant use cases and reasons
+why the pairing of these solutions are stronger together than apart. It will also cover possible collaborations, the project timeline, and current and future goals such as:
+• Enhance serendipitous discovery of research materials.
+• Collect and display research activity by researchers at a given institution or within an academic department.
+• Create a widely accessible module for an institution to harness the SHARE data feed of broadly aggregated research events.
+• Create a compelling integration between SHARE, VIVO, and Fedora 4 that harnesses the strengths of each platform."
   subtype: presentation
   speakers: []
   language: en
@@ -169,7 +223,20 @@ an expanding ecosystem of scholarly systems, as well as the cross-institutional 
 -
   id: 102
   title: "Using VIVO and Other Tools to Achieve a Strategic Vision"
-  description: ""
+  description: "A globally interconnected research world
+is the norm. This offers great opportunities for communication and collaboration across  elds of research, but it also comes with
+great challenges, in particular for systems interoperability. Many technology products, systems and tools have been created to help universities and other research organizations meet these challenges while achieving
+their strategic goals. This is creating a new challenge: a confusing stack of technology for users to assemble into a functional research ecosystem.
+This panel will explore how one university, Texas A&M, selected and implemented a technology stack and is using it to achieve their strategic plan, “Vision 2020: Creating a Culture of Excellence.” Their stack includes:
+• VIVO
+• ORCID
+• Repositories, Vireo & DSpace • PlumX
+The panel will discuss the components and the interactions between them, to provide the audience concrete examples of a working, interconnected research ecosystem.
+Texas A&M will describe its process for de ning its technology needs, who was engaged, and the questions that drove decision- making. They will describe their current technology stack, and the connections between the components. One cross-platform connector used by Texas A&M is the ORCID ID, which is allowing them to integrate information about researcher works and af liations across various systems and present this information in their VIVO instance.
+ORCID will describe how ORCID identi ers are being used at universities to assert researcher af liation, and how universities may bene t from integrations by publishers and funders. Consortia approaches to implementation and adoption will be discussed, as well as the use of ORCID in federated identity management systems such as eduGAIN, and how ORCID interacts with identi ers for works and organizations.
+Green open-access institutional repositories are a key component of a research ecosystem. It is the container for the research output conducted at the university. Recent studies have shown
+that opening up access to research creates more usage and citations for that research. Texas A&M implemented Vireo for theses and dissertations and DSpace for faculty research.
+How is all of this enabling Texas A&M to measure progress toward its strategic goals? As a component of its tech stack, Texas A&M has integrated PlumX to track research metrics in  ve categories: usage, captures, mentions, social media and citations. Sometimes this is referred to as altmetrics. This part of the panel will include a discussion of what Texas A&M has discovered by tracking metrics across disciplines including output for the humanities. It will also showcase some other use cases of metrics in institutional repositories, analytics reports and researcher dashboards."
   subtype: presentation
   speakers: []
   language: en
@@ -178,7 +245,10 @@ an expanding ecosystem of scholarly systems, as well as the cross-institutional 
 -
   id: 103
   title: "Update on ReCiter: An Open Source Author Name Disambiguation System that Leverages Institutionally-Maintained Metadata"
-  description: ""
+  description: "Administration at Weill Cornell Medicine has called upon the Library to track authorship for thousands of individuals including faculty, postdocs, and alumni. Until identi ers like ORCID are adopted more widely and used more consistently, author disambiguation remains an important challenge towards producing valid and real-time reports of publication activity.
+At the 2015 VIVO Conference, we presented ReCiter, a Java-based tool which uses institutionally-maintained data to perform author name disambiguation in PubMed. Since last year’s conference we have continued to improve the performance of ReCiter. In our set of 63 randomly selected existing faculty members, ReCiter can now assert author identity at over 97% accuracy. In a randomly selected sample of 20 alumni, ReCiter performed at 93% accuracy, and, for active students this  gure was 80%.
+ReCiter employs 15 separate strategies for disambiguation. The range of data used spans six systems of records: Of ce of Faculty Affairs, Human Resources, alumni database, student database, physician pro le system, and the grants management system. For our test set of data, we have established which data are most powerful in contributing to overall accuracy. These include: known co- investigators, known department, and year of doctoral degree.
+Our team has designed ReCiter to be generalizable. Our goal is to determine if the high accuracy we note can be achieved at other sites. The code will be shared with the community."
   subtype: presentation
   speakers: []
   language: en
@@ -187,7 +257,15 @@ an expanding ecosystem of scholarly systems, as well as the cross-institutional 
 -
   id: 104
   title: "Collaboration through Linking: A Bilateral Project Between University of Florida and Elsevier for Access to Articles by UF Authors"
-  description: ""
+  description: "VIVO implementations have long been
+closely tied to the library and yet local VIVO systems have prioritized the integration of institutional repository data far below other internal or external data sources, thereby bypassing the local infrastructure designed to preserve institutional research for a university. A new partnership between the University of Florida (UF) George A. Smathers Libraries and Elsevier makes the UF Institutional Repository (IR@UF) an excellent internal data source for UF author publications.
+As background, in 2014 and 2015 the Smathers Libraries and Elsevier embarked
+on a bilateral pilot project that identi ed and collected metadata for over 30,000 articles written by UF staff, faculty and students and published by Elsevier from 1949 forward. The Smathers Libraries are placing the metadata and full-text into the IR@UF for indexing with the full text document available through the Elsevier ScienceDirect platform for supported aggregated metrics and article tracking. The partnership between Elsevier and the Smathers Libraries is a natural choice as Elsevier has
+a large volume of content and a high citation impact and UF authors publish 1,100-1,300 articles per year in Elsevier journals.
+This bilateral partnership is now being expanded to include other publishers through CHORUS -- a non-pro t cooperative effort involving publishers and funding agencies
+to expand access to scholarly publications reporting on funded research— designed to provide high-quality citation information as a tool to support reporting compliance through an alerting and reporting dashboard integrated with the IR@UF. CHORUS is developing a compliance dashboard for integration with the IR@UF and other academic institutional repository systems.
+The overall goals of this project are for the Libraries to provide an infrastructure to assist with researcher compliance, provide CHORUS and the participating publishers a
+better understanding of the information needed by institutional repositories for tracking and reporting on compliance, and further increase discoverability of scholarship through potential linkages with VIVO@UF. This presentation will give an overview of how embargo periods will be handed and accessibility addressed when a user does not have access to subscribed content, and will also outline the bene ts of the partnership which includes reduced faculty burden, facilitated compliance reporting, increased visibility and accessibility, and additional institutional linkages supporting contextualization of research."
   subtype: presentation
   speakers: []
   language: en
@@ -196,7 +274,13 @@ an expanding ecosystem of scholarly systems, as well as the cross-institutional 
 -
   id: 105
   title: "Streamlining Assessment Exercises and Faculty Activity Reviews"
-  description: ""
+  description: "Ask a researcher to populate an institutional webpage and you’ll see them roll their eyes and move on to something more enjoyable.
+Ask a researcher to complete their faculty activity report and they'll grudgingly do it, but complain about the duplicated effort.
+However: ask a researcher to keep a system up-to-date throughout the year, so that they can avoid the annual form- lling common with other systems, and they might not only do it, but tell their colleagues about how easy it was!
+One of the core concepts behind Symplectic’s mission is the reduction of the administrative burden from research institutions and their staff. The next logical step in this calling is the tackling of faculty activity and performance- related assessments: parts of a much larger data-gathering exercise that institutions partake in every year and one that remains laborious to all required to contribute.
+The latest major release of Elements, Symplectic’s leading Research Information Management System, contained a highly- anticipated solution to this issue - the Assessment Module. Assessment-related data can now be reused, repurposed, and resurfaced on a VIVO pro le, with researchers having the freedom to pick what’s pertinent for public use.
+This presentation will explore how this module offers a signi cant new repurpose of
+institutional data. Complementing our long- standing relationship with VIVO, Symplectic is continually committed to semantically linking previously siloed data; knowing that this data is only useful when it can be reused throughout an institution freeing faculty from burdensome reentry."
   subtype: presentation
   speakers: []
   language: en
@@ -205,7 +289,11 @@ an expanding ecosystem of scholarly systems, as well as the cross-institutional 
 -
   id: 106
   title: "The VIVO Pump: A New Tool for Data Ingest"
-  description: ""
+  description: "The VIVO Pump is a new tool for managing data in VIVO. The Pump allows data to be managed in spreadsheets -- simple rows and columns corresponding to attributes of entities in VIVO. Using the Pump, a data manager can 'get' data from VIVO into a spreadsheet, modify the values, and/or add rows, and then 'update' VIVO using the improved spreadsheet. Enterprise data can be loaded into VIVO using and update from a spreadsheet. The Pump uses de nition  les in JSON format to de ne the mapping between spreadsheet rows and columns, and VIVO's graph data models. De nition  les are included with the Pump for managing people, positions, educational background, organizations, publications, grants, teaching, service, mentoring, dates, journals and concepts. No knowledge of the VIVO ontology is required to use delivered de nition  les. De nition  les are used to 'round trip' data -- the same de nition is used to perform the 'get' as to perform the 'update.'
+The Pump can be used to load data to new VIVOs as well as for managing data of established VIVOs. Additional features of
+the Pump include 'enumerations' -- simple translation tables that allow the Pump to convert between terminologies and identi ers, and 'filters' which can be assigned to columns to perform routine standardization of values. The Pump is completely domain agnostic. De nition  les can be created for any set
+of ontologies to manage any graph data as spreadsheets. In this talk, we will describe the design goals of the Pump and provide
+examples of its use to manage data in VIVO. The Pump is fully documented in on-line resources, as well as PDF and eBook formats. The Pump is open source software, made freely available under the Apache License."
   subtype: presentation
   speakers: []
   language: en
@@ -214,7 +302,12 @@ an expanding ecosystem of scholarly systems, as well as the cross-institutional 
 -
   id: 107
   title: "How to Read 100 Million Publications: VIVO and Comprehensive Open Publication Databases"
-  description: ""
+  description: "A number of commercially developed publication databases such as Web of
+Science and Google Scholar aim to provide a comprehensive view of the scholarly literature. Such databases are quite large in scale, needing to handle metadata on the order of about 100 million publications, and to grow by more
+than 1 million new publication records every year. There is ongoing interest in creating more open comprehensive databases in the community as well, for various purposes, ranging from open access support to preservation to various kinds of researcher analysis. Is it worth creating and supporting such open databases in the community, and
+if so, for what purposes? How could they scale up as they would need to, in technical, political, and participatory terms? How could they use cooperation to thrive, rather than being starved as unwanted competition? What can we learn from experiences with existing and proposed comprehensive and specialized publication knowledge bases, whether run
+by commercial  rms, academic institutions, interested amateurs, or bootleggers? How could VIVO sites help build up comprehensive publication databases, and how would the availability of such databases affect the sort
+of data and services that local VIVO sites would focus on? The goal of this session is not to propose Yet Another Big Database for the VIVO community to develop, but rather to provoke discussions on how efforts in the VIVO community can best support and take advantage of a growing ecosystem of open publication data, at the global scale."
   subtype: presentation
   speakers: []
   language: en
@@ -222,8 +315,10 @@ an expanding ecosystem of scholarly systems, as well as the cross-institutional 
 #  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
 -
   id: 108
-  title: "Examining Federal Expert Networking and the Economies of Scale: Moving the “HHS Pro les” Pilot towards “Experts.gov”"
-  description: ""
+  title: "Examining Federal Expert Networking and the Economies of Scale: Moving the “HHS Profiles” Pilot towards “Experts.gov”"
+  description: "The federal government tackles America’s hardest problems; yielding decisions with important consequences for our nation’s future. Thomson Reuters recently named the U.S. Department of Health and Human Services (HHS) as the most innovative publically- funded research organization in the U.S., and fourth in the world. The challenges we face are worthy of mobilizing our nation’s best minds across multiple sectors. And yet we lack a systematic way to locate and match expertise for participatory problem-solving.
+The question of how best to leverage collective intelligence for better governance remains unanswered. In 2015, expert networking implementers from the U.S. Food and Drug Administration (FDA) and National Institutes of Health (NIH) forged a collaboration to launch the HHS Pro les pilot. Funded by 18F, General Services Administration (GSA), the goal was to test the viability of a public-facing, multiorganizational expertise matching platform called “HHS Pro les.”
+The team presented the project plan at the VIVO 2015 Conference, and returns to report preliminary results and lessons learned from this effort to design a platform-agnostic, integrated framework to harness intra-government expertise. We will then discuss the scope and requirements of the next project phase, and the vision for “HHS Pro les” scales to “Experts. gov.” The presentation will close with a re ection on future pathways for cross-sector collaboration, and address the unique challenges to expert discovery in the federal space"
   subtype: presentation
   speakers: []
   language: en
@@ -232,7 +327,8 @@ an expanding ecosystem of scholarly systems, as well as the cross-institutional 
 -
   id: 109
   title: "Publication Data Enrichment at the University of Florida with the Web of ScienceTM"
-  description: ""
+  description: "This talk will focus on a publications data enrichment project at the University of Florida. We will describe how the team has utilized web services from the Web of ScienceTM
+to automate processes and to add unique identi ers to existing publications. We will also explain modi cations to VIVO’s core queries and templates that allow for adding important contextual links to VIVO, which enhance browsing and discovery. Data processing code, methods and lessons learned will be shared with attendees."
   subtype: presentation
   speakers: []
   language: en
@@ -241,7 +337,10 @@ an expanding ecosystem of scholarly systems, as well as the cross-institutional 
 -
   id: 110
   title: "Optimizing VIVO: Under the Hood of 1.8.1"
-  description: ""
+  description: "Whilst the 1.8 release of VIVO had brought a number of usability improvements, there had been a slight catch: general page rendering was slower. It was important to address this, and so optimization was the key priority of a minor point release.
+The release of 1.8.1 managed to not just reverse the performance loss, but to gain around 30% improvements on the 1.7 release - without changing any of the data model, or triple store implementation.
+In this talk, I will show how using a pro ler identi ed areas of concern, the strategies that were applied to improve the performance
+- including some signi cant changes to the models cached in the application layer - and some tips for thinking about performance when customizing or developing for VIVO."
   subtype: presentation
   speakers: []
   language: en
@@ -250,7 +349,10 @@ an expanding ecosystem of scholarly systems, as well as the cross-institutional 
 -
   id: 111
   title: "The SEO State of the Union 2016: 5 Data-Driven Steps to Make your Research Networking Sites Discoverable by Real Users, Based on Real Google Results"
-  description: ""
+  description: "The second annual SEO State of the Union dives back into the world of search engine optimization for research networking sites. Search engines like Google are, in many cases, the most
+critical pathway for discoverability for research networking platforms. UCSF Pro les, for example, receives over 80% of its visits (about 100k of 125k visits per month) via Google. But not all research networking platforms perform equally well on search engines.
+The  rst annual SEO State of the Union 2015 broke down real-world SEO performance for over  fty public research networking sites. We will present updated  ndings for 2016, including a detailed overview of how different implementations and platforms rate in terms of search engine discoverability, stratifying by platform and type of deployment.
+We will present  ve key  ndings into the real- world factors that impact search engine traf c, both at the level of the entire site, and also between different pro le pages on the same site. These  ndings will be helpful at every stage of the research networking process, from product evaluation/selection to the promotion of mature platforms."
   subtype: presentation
   speakers: []
   language: en
@@ -259,7 +361,13 @@ an expanding ecosystem of scholarly systems, as well as the cross-institutional 
 -
   id: 112
   title: "Linked Data for Libraries (LD4L): Expanding the Linked Data Ecosystem"
-  description: ""
+  description: "The Linked Data for Libraries (LD4L) team, consisting of librarians, ontologists, metadata experts, and developers from Cornell, Harvard, and Stanford libraries with support from the Andrew W. Mellon Foundation, has recently completed its  rst two years of work on adapting and developing LOD standards for describing and sharing information about scholarly information resources. In this presentation, we will describe how to access and use the LOD created by
+the project, representing some 29 million scholarly information resources cataloged by the three partner institutions. We will also describe the demonstration Blacklight search operating over the combined dataset.
+We will then describe the follow-on work currently underway in two closely related efforts. LD4L Labs is a partnership of Cornell, Harvard, Iowa, and Stanford focused on creating tools to support original cataloging of scholarly information resources using linked
+data, as well as tools to support using linked data to organize, annotate, visualize, browse, and discover these resources. The LD4P (Linked Data for metadata Production) project is a partnership of Stanford, Columbia, Cornell, Princeton, Harvard, and the Library of Congress to do original and copy cataloging of a wide range of collections and materials, including unique collections of Hip-Hop LPs, performed
+music, cartographic materials, audiovisual and sound recordings, two and three-dimensional art objects, and the personal library of a famous author and scholar.
+Finally, we will draw on the use cases and examples embodied in this work to discuss some of the opportunities to engage directly with VIVO pro les, the VIVO community, and the broader researcher pro ling ecosystem. Several of the efforts within
+LD4L Labs and LD4P will be looking at using VIVO pro les as local authorities during the process of cataloging scholarly resources. There are also potential opportunities for VIVO instances to take advantage of some of the ontology re nements that LD4L uses in describing scholarly works. We will explore some of the implications that these developments might have for how VIVO is used and evolves at academic institutions."
   subtype: presentation
   speakers: []
   language: en
@@ -267,8 +375,9 @@ an expanding ecosystem of scholarly systems, as well as the cross-institutional 
 #  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
 -
   id: 113
-  title: "Maintenance Queries, Automating the Identi cation and Resolution of Problematic Data in VIVO"
-  description: ""
+  title: "Maintenance Queries, Automating the Identification and Resolution of Problematic Data in VIVO"
+  description: "After deploying VIVO, adopters will  nd that, overtime, data can become inconsistent, incomplete, or missing. This talk will focus on methods for identifying and resolving problematic data in an automated fashion.
+We will describe a reusable toolkit we have developed that utilizes SPARQL based rules for identifying data and VIVO's SPARQL API for updating, or correcting, these problems. Further, we will explain how web services are used to augment incomplete data. The toolkit and methods used will be extendable and reusable by other sites."
   subtype: presentation
   speakers: []
   language: en
@@ -277,7 +386,7 @@ an expanding ecosystem of scholarly systems, as well as the cross-institutional 
 -
   id: 114
   title: "Towards Deeper RNS User Engagement: How to Get Users to Sign in for Personalized Content"
-  description: ""
+  description: "UCSF proposes to present an update to last year’s presentation on Leveraging Personalized Google Analytics Information for Greater RNS Engagement. We have launched a personalized dashboard and promoted it in various ways. We would like to share our learnings with the RNS community including progress on getting pro le page owners to sign in for personalized content and what we can learn from their signed-in behavior. We’ll also discuss ideas for next steps."
   subtype: presentation
   speakers: []
   language: en
@@ -285,8 +394,19 @@ an expanding ecosystem of scholarly systems, as well as the cross-institutional 
 #  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
 -
   id: 115
-  title: "Service-Driven Pro le Linkage – the CTSAsearch/CrossLinks Experience"
-  description: ""
+  title: "Service-Driven Profile Linkage – the CTSAsearch/CrossLinks Experience"
+  description: "While multi-site search of research pro ling systems has substantially evolved in recent years, the deployed instances of pro ling systems substantially remain disconnected islands of Linked Open Data (LOD). CTSAsearch harvests VIVO-compliant LOD and provides a number of data integration services in addition to search and visualization services. Seventy- eight institutions are currently included, spanning nine distinct platforms. In aggregate, CTSAsearch has data on 168-415 thousand unique researchers and their 7 million publications. The public interface is available at http://research.icts.uiowa.edu/polyglot. This paper presents our experiences connecting CTSAsearch data integration services into the UCSF CrossLinks service, providing a means of directly interlinking researcher pro les across sites and platforms.
+Data Integration Services
+CTSAsearch integration services have been designed to support human exploration of the identity of pro led persons and automated linkage of LOD across systems. Services hence fall roughly along a human-system interface spectrum:
+Person by name query: This service accepts a last name and a  rst name pre x and returns two discrete lists, one of “real” persons (i.e., pro les deemed as not stubs) and one of “stubs” (i.e., pro les appearing to only be placeholders in some pro ling system). The returned URIs can then be used as input for sameas queries below.
+Person by publication query: This service accepts a DOI or PMID and returns a list of pro led authors and their rank in the author list of the target publication. Output formats include HTML, JSON and XML. This service is speci cally designed to support inter-site linkage of coauthors.
+Person sameas query: This service accepts a person URI and returns a list of URIs referring to the same person. Currently, two URIs are asserted to refer to the same individual if they share one or more publications with the same PMID or DOI, have the same family name and either the same  rst name or one  rst name is a single initial that matches the  rst name of the other. (All name comparisons are case insensitive.)
+Cross-linking Pro les
+Almost all research pro ling sites currently provide only internal links. In the case of extra-institutional co-authors, either no information is provided or stub pro les are generated containing only an author
+name generated from the citation. UCSF Pro les now harvests CTSASearch data to provide links to the non- institutional co-authors, and is working with Harvard to make this feature a part of the common Pro les RNS software. Bene ts arising from this feature include
+a richer web user experience, the ability to “crowd source” disambiguated data (an author at UCSF noticed a link to an incorrect author with a similar name at another institution, and has noti ed the administrators at the other institution), as well as improved SEO due to links from many top level domains.
+Conclusion
+CTSAsearch and CrossLinks demonstrate that substantial value can be added to the current research networking landscape through integration of these data. Our future work in this area will include enhanced ability to interconnect these systems and to visualize the resulting aggregated information space."
   subtype: presentation
   speakers: []
   language: en
@@ -295,7 +415,8 @@ an expanding ecosystem of scholarly systems, as well as the cross-institutional 
 -
   id: 116
   title: "Deploying VIVO as a Static Site"
-  description: ""
+  description: "VIVO's rich data model can be ideal for publishing information about research activity and making connections among these activities. However the technical architecture can be a challenge to deploy as a public facing website for potential adopters. This talk will describe
+a process for building a research discovery website from VIVO's data model but deployed as a static site, using just HTML5, CSS, and JavaScript. This talk will identify the data mapping process, publishing steps, lessons learned, and identify future directions of pursuit."
   subtype: presentation
   speakers: []
   language: en
@@ -304,7 +425,11 @@ an expanding ecosystem of scholarly systems, as well as the cross-institutional 
 -
   id: 117
   title: "PIMP My VIVO: Creating an ‘Expertise Hub’ with Focused, Responsive Design"
-  description: ""
+  description: "Over the past few years, VIVO has gained
+global appeal amongst institutions. However, many institutions struggle to get past the
+early adopter phase and ‘go live’ with their own VIVO. As Registered Service Providers of VIVO, we are often asked for ‘showcase’ VIVO systems to display. We will typically send them examples where institutions have undertaken large customisation projects on top their VIVO, like Grif th University.
+Institutions who adopt VIVO still struggle to  nd a focus for the ‘stock’ version. For it to be an effective showcase of an institution’s data, there needs to be consideration of usability and design to realise its full potential, to make it
+a true centre of the expertise of an institution. Many institutions do not always have the resource or expertise to achieve this."
   subtype: presentation
   speakers: []
   language: en
@@ -312,8 +437,16 @@ an expanding ecosystem of scholarly systems, as well as the cross-institutional 
 #  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
 -
   id: 118
-  title: "Connect UNAVCO, a VIVO for a Scienti c Community"
-  description: ""
+  title: "Connect UNAVCO, a VIVO for a Scientific Community"
+  description: "Science, data, and research products are the focus of two new VIVO implementations, Connect UNAVCO (connect.unavco.org) and EOL Arctic Data Connects (vivo.eol.ucar.edu). The sites are being developed as part of EarthCollab, a project funded by The National Science Foundation. EarthCollab is a collaboration between UNAVCO, the University Corporation for Atmospheric Research (UCAR)/National Center
+for Atmospheric Research (NCAR), and Cornell University. UNAVCO is a non-pro t university- governed consortium that facilitates geoscience research and education using geodesy. NCAR’s Earth Observing Laboratory (EOL) manages observational data related to a broad range of research  elds in
+the geosciences. Both organizations support a large community of researchers and collaborators, many
+of them at U.S. and international universities. VIVO, with the science-focused application and ontology extensions we are developing, connects the research output of our diverse communities with datasets, grants, and instruments managed by our organizations. Unique identi ers for people (i.e., ORCID), publications (i.e. publication DOIs), data (i.e. data DOIs) are included whenever possible to avoid confusion and to yield the most stable and effective connections.
+To date, Connect UNAVCO includes active pages
+for 650+ community members. The members are connected to 4000+ academic articles, 3,800+ datasets, and 3,600+ GPS stations managed by UNAVCO. The VIVO-ISF ontology captures many of the connections in the data model. Local ontology extensions
+capture organization membership roles and their representatives, as well as roles related to stations and instruments. We utilize parts of the WGS84 and Global Change Information System (GCIS) ontologies to capture geospatial and scienti c instrument concepts, respectively. UNAVCO’s implementation also includes a handful of application extensions built to highlight data, instruments, and the people who manage them. For example, individual pages for stations have
+been extended to plot the station on a map, include
+a link to the data archive, and the station’s principal investigators. Another extension allows staff and community members to select their expertise and research areas from a curated list of terms. In addition to appearing on a person’s pro le page, a community- wide word cloud is generated and displayed on the home page."
   subtype: presentation
   speakers: []
   language: en
@@ -321,8 +454,16 @@ an expanding ecosystem of scholarly systems, as well as the cross-institutional 
 #  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
 -
   id: 119
-  title: "Visualizing Virtual Communities in the VIVO Pro le Ecosystem"
-  description: ""
+  title: "Visualizing Virtual Communities in the VIVO Profile Ecosystem"
+  description: "CTSAsearch (http://research.icts.uiowa.edu/ polyglot) visualizes co-authorship connections between the matched pro les using a force graph implemented in D3. Connections are pre-computed at pro le harvesting time using multiple alternative identi ers (DOI, PMID, and PMCID) present in the pro le data.
+OCLC pmid2doi crosswalk data is used to span the identi er spaces. Useful force graph visualizations are possible for ‘reasonable’ result scales (n ~ 200). This presentation will address recognition of research collaboration communities whose identity beyond the default notion of institution.
+Institution-level visualization
+Labeling nodes (pro les) by institutional af liation has proven useful for small-scale (n<200) graphs, particularly for topics relating to research communities relatively evenly distributed across institutions. However,
+for searches involving large numbers of pro les from a comparatively small number of institutions, the inherent substructure of
+the collaboration networks gets lost in the ‘hairball’ of interconnectivity.
+Inter-institutional community visualization Focusing on community detection in the network structure is proving to be a far more robust approach to untangling large networks. I use a user-selectable set of community detection algorithms [1,2] to identify community membership based upon characteristics of the local neighborhood. The resulting node coloring reveals natural substructure even in densely interconnected graph components.
+[1] V.D. Blondel, J.-L. Guillaume, R. Lambiotte, E. Lefebvre, Fast unfolding of communities in large networks, J. Stat. Mech. Theor. Exp. 10, P10008 (2008)
+[2] L. Waltman and N. J. van Eck, A smart local moving algorithm for large-scale modularity-based community detection, Eur. Phys. J. B (2013) 86: 471."
   subtype: presentation
   speakers: []
   language: en
@@ -331,7 +472,9 @@ an expanding ecosystem of scholarly systems, as well as the cross-institutional 
 -
   id: 120
   title: "Open VIVO: Goals and Results"
-  description: ""
+  description: "Open VIVO is a demonstration of an open VIVO that anyone with an ORCID identi er can use. Users can join Open VIVO. The project engaged more than a dozen team members in creating infrastructure, branding,
+a new contribution ontology, new interactive elements, new datasets of RDF for VIVO, and new reuse elements. Open VIVO provides an opportunity for every scholar to participate in an immediate way, to add data and indicate contribution to scholarly works, and to provide data in a truly open and accessible manner on
+a daily basis. In this panel, participants in the Open VIVO project will share their views on the project, its goals and results. Elements of Open VIVO will be ported to future versions of VIVO. Implications of Open VIVO for VIVO will be discussed."
   subtype: presentation
   speakers: []
   language: en
@@ -340,7 +483,10 @@ an expanding ecosystem of scholarly systems, as well as the cross-institutional 
 -
   id: 121
   title: "Voted Most Popular: Generating CVs from VIVO"
-  description: ""
+  description: "A frequent request from Duke faculty members is, 'Can I create a CV from Scholars@Duke?' Now we can say, 'Yes!' Last fall, the School of Medicine's Appointments, Promotions and Tenure Committee asked for a CV generator
+to help streamline dossier submissions as
+well as to encourage maintenance of Duke's VIVO implementation, Scholars@Duke.
+With the help of the APT committee and the VIVO widgets, users can generate (client- side) a simple CV in a Word document. The Scholars@Duke team is working to enhance the CV by adding a number of user-maintained  elds. Phase two of the Scholars CV will take many months and a lot of development effort -- will the APT committee like it? And more importantly, will faculty use it? Get the inside scoop at this presentation."
   subtype: presentation
   speakers: []
   language: en
@@ -348,8 +494,15 @@ an expanding ecosystem of scholarly systems, as well as the cross-institutional 
 #  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
 -
   id: 122
-  title: "Using VIVO for Scienti c Applications"
-  description: ""
+  title: "Using VIVO for Scientific Applications"
+  description: "Semantic Web technologies have been used in geoscience information and data applications for a couple of decades. Geoscience focused ontologies have been developed at many
+levels of detail, from controlled thesauri to formal ontology speci cations with properties, logical constraints, and underlying axioms. This geosciences semantic community has largely existed separately from the VIVO community. In the last  ve years, however, a small number of VIVO instances have been deployed to manage and share information about geoscience projects, data, and other resources. Within the VIVO data model, almost everything can be represented as a  rst-
+order object – not just people, organizations, publications and grants, but instruments, projects and their components, work
+groups, datasets, methodologies developed, presentations, and any other items of interest declared using appropriate ontologies.
+This panel will feature presentations that focus on using VIVO for scienti c applications.
+The goal will be to bring about discussion of the bene ts and drawbacks of representing scienti c information in VIVO. Presentation and discussion topics may include: extending the VIVO application interfaces, coupling
+the VIVO-ISF ontology to domain-speci c ontologies, and leveraging VIVO for supporting cross-organizational projects.
+The panel will be organized to engage the audience in questions about VIVO’s ability to support the use cases presented by scienti c research organizations and projects. These use cases may include using VIVO to represent information about multi-organizational and multi-disciplinary scienti c projects, and capturing the relationships between people, organizations, grants, datasets, publications, scienti c instruments, and research sites. Speakers in this panel will present about ongoing VIVO initiatives to illustrate current efforts."
   subtype: presentation
   speakers: []
   language: en
@@ -358,7 +511,22 @@ an expanding ecosystem of scholarly systems, as well as the cross-institutional 
 -
   id: 123
   title: "Semantically Enabling Figshare as a Basis for Rapid Ontology Implementation and Adoption"
-  description: ""
+  description: "One of the challenges for the progression of research metadata standards is that technology often gets in the way. Bound by the pressure not to be weighed down by technical debt, and the desire to appeal to as broader an audience as possible, the adoption of metadata standards within technology platforms is conservative. Ideally, this is not how things should be. The adoption of standards and practices should be community led, with technology functioning as the enabler. This presentation will showcase one attempt to move closer towards this goal by semantically enabling Figshare as a basis for rapid ontology development and adoption.
+As part of the work required to build
+the FORCE2016 OpenVIVO initial implementation, a mapping from the Figshare API to VIVO RDF was created. This work was then extended to expose all RDF documents that are part of a Figshare record as a single RDF graph. It is intended that this graph be accessible from the Figshare article URL when RDF is requested. With two developments:
+• The use Figshare API to create custom metadata forms that can write additional triples to a Figshare article, and;
+• The inclusion of RDF as a metadata output
+of Figshare’s new OAI-PMH feed; Figshare records can now be annotated with new ontologies that are immediately discoverable.
+As a concrete example of this approach, a working supplementary metadata form will
+be demonstrated that allows authors to be annotated with organizational af liations,
+and additional roles assigned using the
+draft CRediT ontology. In a similar fashion, this same approach can be used to extend
+the adoption of a greater part of the VIVO ontology beyond faculty pro les. Through the harvesting of Figshare records into Symplectic Elements, Figshare records can be linked to grants and publications in Elements, and then this additional metadata pushed back onto the Figshare record as VIVO RDF through the reuse of Symplectic’s VIVO harvester code.
+In this presentation, we will demonstrate
+the  rst iteration of a user-focused, modern reimagining of the VIVO interface. Using Bootstrap and CSS, we will show how
+some layout and design improvements can work wonders on the stock VIVO interface. Coupled with some basic SEO knowledge, any institution can use these simple methods to drastically improve their own VIVO and make it the ‘expertise’ hub it’s destined to be. We will also demonstrate a new set of integrations
+with products such as Altmetric,  gshare and The Conversation to help further enrich and showcase institutional data and expertise.
+"
   subtype: presentation
   speakers: []
   language: en
@@ -367,7 +535,14 @@ an expanding ecosystem of scholarly systems, as well as the cross-institutional 
 -
   id: 124
   title: "Faceted Searching in Scholars@Duke"
-  description: ""
+  description: "Users are searching Duke’s VIVO, Scholars@ Duke for many reasons: Duke faculty to identify collaborators for research efforts, prospective students and their families to learn about our faculty and scholarship, patients
+to learn more about our medical providers, and industry to locate expertise. But many of our users have told us that our current search functionality is insuf cient to effectively and optimally facilitate those use cases.
+In this presentation, we will discuss in
+more detail the feedback which prompted
+this proposed enhancement of our search functionality, as well as, the key elements of the analysis and considerations that informed our  nal design. Faculty and our broader user community have requested search functionality that enables them to  lter results to the level
+of granularity required and by facets that are helpful. In addition, they would like to sort
+the search results by relevance or other factors to provide context for the results listed. Also, some users are seeking a very speci c set of results and need an 'advanced' search that’s easy to use.
+Our proposed enhancement of the Scholars@ Duke search functionality seeks to address those limitations by enhancing our basic search to provide more effective  ltering of search results, enabling the search results to be sorted by relevance, and adding new advanced search capabilities."
   subtype: presentation
   speakers: []
   language: en
@@ -376,7 +551,14 @@ an expanding ecosystem of scholarly systems, as well as the cross-institutional 
 -
   id: 125
   title: "The Citation Impact Tool: Visualizing Research Impact"
-  description: ""
+  description: "Many metrics may be used to evaluate a researcher’s scholarly impact. Because research articles are a prominent currency of academic scholarship, citation impact plays a central role in scholarly impact assessment. Times cited data are highly skewed, and it is well recognized in the bibliometrics literature that nonparametric approaches are appropriate for skewed distributions. By convention in bibliometrics the scholarly impact of an article is assessed against a reference set of other articles of the same publication type (i.e. academic article or review), in the same  eld, and published the same year. The articles in the reference set are used as a baseline to calculate the percentile rank of the number of times a given article has been cited. To our knowledge, no currently available systems are capable of displaying article-level impact based on percentile rank of times cited for the entire percentile distribution.
+To support research impact assessment, we have developed the Citation Impact Tool, an interactive component of VIVO Dashboard. The system allows users to assess the percentile rank of the number of citations speci c articles have received relative to peer publications. Publications are individually benchmarked against reference sets of 200 articles of the same type, topical category of journal, and
+year of publication. Times cited data comes
+from Elsevier’s Scopus. The system uses an iconographic bar chart to portray article-level citation impact of multiple articles in one view, and allows users to  lter by type of article, author order ( rst/last author rank), and topical category.
+The system uses Thomson Reuters Web of Science journal categories to assign articles to individual  elds. When an article is in more
+than one category, the percentile rank of times cited is calculated separately against a separate reference set of articles for each category. A mean percentile rank for the article across categories
+is then calculated and, in turn, used in the bar chart. Because recently published articles have had little time to accumulate citations, articles from the past two to three years are deliberately excluded from the charts.
+The code will be shared with the community"
   subtype: presentation
   speakers: []
   language: en
@@ -385,7 +567,9 @@ an expanding ecosystem of scholarly systems, as well as the cross-institutional 
 -
   id: 126
   title: "Updates from a Registered Service Provider"
-  description: ""
+  description: "As the  rst of cial DuraSpace Registered Service Provider for VIVO, Symplectic provides services that cover everything from installation, to support of VIVO on client servers, to providing our own hosted solution. Our continued involvement in user groups, the DuraSpace community and participation in VIVO working groups mean that we are well placed to support the needs of the VIVO community.
+Symplectic is also a registered service provider for Pro les RNS, the open source Semantic Web research networking platform based on the VIVO ontology.
+This presentation will re ect on Symplectic’s second year as a Registered Service Provider, showcasing the projects we have supported for both VIVO and Pro les RNS, including institutions outside the US - covering installations, data analysis, data population, customisation, and hosting. As well as our current engagements, we will introduce a number of new initiatives we plan to introduce in support of both open source communities."
   subtype: presentation
   speakers: []
   language: en
@@ -394,7 +578,7 @@ an expanding ecosystem of scholarly systems, as well as the cross-institutional 
 -
   id: 127
   title: "Usability vs. Purity: How UCSF and Duke Enabled Data Reuse By Going Beyond Linked Data"
-  description: ""
+  description: "Duke and UCSF have come up with ways to make their research networking platforms indispensable at their institutions, winning friends and allies, and strengthening the case for renewed funding. Others can do this too — but only if we retro t VIVO, Pro les, and other platforms with simple data reuse mechanisms. In this session, we’ll talk about techniques for developers, traf c growth on downstream sites, and researcher engagement. We’ll look at examples of sites that consume VIVO and Pro les data and talk about what it’s like to share data across nearly 50 local websites and apps."
   subtype: presentation
   speakers: []
   language: en
@@ -403,7 +587,24 @@ an expanding ecosystem of scholarly systems, as well as the cross-institutional 
 -
   id: 201
   title: "Extending VIVO Infrastructure to Support Linking Information between EarthCollab VIVO Instances"
-  description: ""
+  description: "Geosciences research, given its interdisciplinary and inter-organizational nature, is often conducted using distributed networks of researchers and resources including instruments and platforms. To
+better enable the discovery of the research output from the scientists and resources used within these organizations, UCAR[1], Cornell University, and UNAVCO[2] are collaborating on the EarthCollab[3] project which seeks to leverage semantic technologies to manage and link scienti c data.
+As part of this effort, we have been exploring how to leverage information distributed across multiple VIVO instances by working on mechanisms to enable a VIVO instance
+to lookup, consume, and display information from another VIVO instance without having to ingest RDF. The challenges we encountered and the path we took to support inter-VIVO communication can provide useful input to the larger discussion of how to extend VIVO’s infrastructure to more seamlessly integrate external information.
+Our presentation will include the following:
+• Demonstration of linking between VIVO instances: Using multiple VIVO instances setup as part of EarthCollab, we will show how we have extended VIVO’s core infrastructure to enable discovery of information from an external VIVO instance and support display
+of this external information within a VIVO pro le.
+• Technical infrastructure: Central to the interconnectivity demonstrated are the abilities to: (1) designate multiple URIs from separate VIVO name spaces as equivalent
+to each other or to an independent unique identi er (such as an ORCID ID) using sameAs assertions, (2) retrieve the appropriate URIs that might designate the same person using a lookup service based on (1), and (3) display information for a URI from a different VIVO instance without having to copy or duplicate information. We will also discuss how these extensions can support other linked
+data lookups and sources of information.
+In addition, we have built mechanisms for displaying all the RDF underlying a VIVO pro le. This RDF depiction can go far beyond the default linked data representation as it captures and presents the information about the related entities that is used to generate a particular pro le.
+As challenges and open questions, we
+will discuss how this mechanism of interconnectivity relies on reliable and open lookup options (e.g. Solr search indices) and how we have had to address how to open
+up our individual VIVO instances to enable communication. Additional questions include how to display the information obtained from an external VIVO instance, both in order
+to preserve the receiving VIVO instance’s brand and to handle discrepancies between ontologies, content, and/or VIVO versions.
+[1] http://www2.ucar.edu/
+[2] https://www.unavco.org/
+[3] http://earthcube.org/group/earthcollab"
   subtype: presentation
   speakers: []
   language: en
@@ -412,7 +613,22 @@ an expanding ecosystem of scholarly systems, as well as the cross-institutional 
 -
   id: 202
   title: "VIVO for Historical Persons"
-  description: ""
+  description: "This presentation will explore the motivations behind and report early results of the VIVO
+for Historical Persons (VIVO4HP) project. This experiment seeks to reuse and extend VIVO and the VIVO-ISF ontology to represent and facilitate discovery of historical persons,
+a humanities use case that re ects VIVO’s original purpose. We will address whether VIVO can be reasonably adapted to this purpose, which would be of interest to a wider digital humanities community including other projects that are using linked data.
+VIVO4HP’s initial use case focuses on historical persons belonging to a speci c professional community – diplomats that served England in the seventeenth century. Our target data is derived from the standard British biographical source, the Oxford Dictionary
+of National Biography (ODNB). This authoritative data set will be supplemented
+by event data on diplomatic missions from A Handlist of British Diplomatic Representatives.
+VIVO presents Linked Open Data, which offers the potential to make our use case data available to other digital humanities projects and applications for subsequent analysis, evaluation, and visualization.
+We are undertaking this experiment as a multi- stage project. The  rst step is to manually create pro les in VIVO for a limited number of diplomats to identify issues with the source data, default ontology, data mapping and transformation, and online display. The second is to make adjustments to the ontology and online display to address gaps. The VIVO- ISF ontology re-uses and extends a number
+of established ontologies, such as FOAF and BIBO, and we will evaluate the integration of other ontologies relevant to our use case. The third is to automatically ingest ODNB data into VIVO, using custom scripts where possible
+to address data mapping and transformation issues. The  nal step is to augment the pro les with other data sources, such as historical sources, other web sites, and linked data.
+We anticipate a variety of challenges and will be prepared to discuss how we addressed these. General issues with historical data include dealing with data ambiguity (e.g., dates, spelling variations), incomplete biographical information, individuals’ identities (e.g., using noble titles instead of their personal names), and historical geographies. The ODNB data was created with another purpose in mind and thus can be incomplete. It may be untagged
+or not tagged to the speci city necessary for certain types of data that might be desirable to represent for our use. Lastly VIVO is meant
+to represent a researcher’s professional life, and does not incorporate some of the personal, political, or social aspects desirable for representing historical persons.
+How our experiment is able to deal with these issues, and the level of intervention required, are key factors in our assessment of VIVO’s utility for the discovery and representation of historical persons. This focused assessment
+of extending VIVO for a humanities purpose should be of interest to a segment of VIVO conference attendees and community members. We hope to show that VIVO4HP provides an example that other humanists can build upon
+to represent, facilitate discovery of, and share linked data about historical persons."
   subtype: presentation
   speakers: []
   language: en
