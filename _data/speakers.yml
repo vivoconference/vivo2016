@@ -115,3 +115,101 @@ as VIVO Project Director for Duraspace. Dr. Conlon formerly served as Co-directo
   title: "Technical Lead"
   bio: ""
   thumbnailUrl: GrahamTriggs.jpg
+-
+  id: 11
+  name: "Paul"
+  surname: "Albert"
+  company: "Weill Cornell Medicine"
+  title: ""
+  bio: ""
+#  thumbnailUrl: GrahamTriggs.jpg
+-
+  id: 12
+  name: "Brian"
+  surname: "Lowe"
+  company: "Ontocale"
+  title: ""
+  bio: ""
+#  thumbnailUrl: GrahamTriggs.jpg
+-
+  id: 13
+  name: "Andi"
+  surname: "Ogier"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: AndiOgier.jpg
+-
+  id: 14
+  name: "Michaeleen"
+  surname: "Trimarchi"
+  company: ""
+  title: ""
+  bio: ""
+#  thumbnailUrl: GrahamTriggs.jpg
+-
+  id: 15
+  name: "Julia"
+  surname: "Trimmer"
+  company: "Duke"
+  title: ""
+  bio: ""
+  thumbnailUrl: JuliaTrimmer.jpg
+-
+  id: 16
+  name: "Alex"
+  surname: "Viggio"
+  company: "CU Boulder"
+  title: ""
+  bio: ""
+  thumbnailUrl: AlexViggio.png
+- 
+  id: 17
+  name: "Violeta"
+  surname: "Ilik"
+  thumbnailUrl: VioletaIlik.jpg
+-
+  id: 18
+  name: "Brian"
+  surname: "Turner"
+  company: "UCSF"
+-
+  id: 19
+  name: "Anirvan"
+  surname: "Chatterjee"
+  company: "UCSF"
+-
+  id: 20
+  name: "Eric"
+  surname: "Meeks"
+  company: "UCSF"
+-
+  id: 21
+  name: "Richard"
+  surname: "Outten"
+  company: ""
+-
+  id: 22
+  name: "Greg"
+  surname: "Burton"
+  company: "Duke"
+-
+  id: 23
+  name: "Rick"
+  surname: "Johnson"
+  company: ""
+-
+  id: 24
+  name: "Bruce"
+  surname: "Herbert"
+  company: ""
+-
+  id: 25
+  name: "Andrea"
+  surname: "Michalek"
+  company: ""
+-
+  id: 26
+  name: "Marianne"
+  surname: "Parkhill"
+  company: ""

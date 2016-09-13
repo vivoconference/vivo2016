@@ -112,7 +112,7 @@ with VIVO. You’ll meet six VIVO community members with years of experience wit
 — data sources, team members, governance models, and support structures. This
 workshop brings best practices and “lessons learned” from mature VIVO projects to new implementations. We’ll help you craft your messages to different stakeholders, so you’ll leave this workshop knowing how to talk about VIVO to everyone from your provost to faculty members to web developers."
   subtype: workshop
-  speakers: []
+  speakers: [11,12,13,14,15,16]
   language: en
   complexity: "Expert"
 #  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
@@ -154,7 +154,7 @@ We will begin with lectures and continue with hands-on demonstration and experim
 a language for expressing customized mappings from relational databases to RDF datasets (R2RML), the advantage Karma data integration tool offers in transforming data into semantic web compliant data.
 The workshop will help participants in planning for an organization’s efforts to move existing data into ontology driven applications, like VIVO, to uniquely represent the scholarly outputs of researchers in their institutions and beyond."
   subtype: workshop
-  speakers: []
+  speakers: [4,17]
   language: en
   complexity: "Expert"
 #  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
@@ -166,7 +166,7 @@ This workshop explores different interfaces to Linked Data using the Linked Data
 This session is aimed at participants with a technical background, as we will get into the details of Linked Data publication and querying. However, people with a broader interest are also welcome, as participants can work together in groups. If you want to learn what roles Linked Data can play in your organization on a very practical level, this workshop is de nitely for you.
 If there is interest, this workshop can be extended with a hackathon later, in which people can build prototype applications on top of live Linked Data on the Web."
   subtype: workshop
-  speakers: []
+  speakers: [3]
   language: en
   complexity: "Expert"
 #  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
@@ -193,7 +193,7 @@ Opening Night & The Season
 After Party
 • Wrapping it all up to show the value of your RNS in an executive level report for the higher administration"
   subtype: workshop
-  speakers: []
+  speakers: [18,19,20]
   language: en
   complexity: "Expert"
 #  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
@@ -216,7 +216,7 @@ why the pairing of these solutions are stronger together than apart. It will als
 • Create a widely accessible module for an institution to harness the SHARE data feed of broadly aggregated research events.
 • Create a compelling integration between SHARE, VIVO, and Fedora 4 that harnesses the strengths of each platform."
   subtype: presentation
-  speakers: []
+  speakers: [23]
   language: en
   complexity: "Expert"
 #  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
@@ -238,7 +238,7 @@ Green open-access institutional repositories are a key component of a research e
 that opening up access to research creates more usage and citations for that research. Texas A&M implemented Vireo for theses and dissertations and DSpace for faculty research.
 How is all of this enabling Texas A&M to measure progress toward its strategic goals? As a component of its tech stack, Texas A&M has integrated PlumX to track research metrics in  ve categories: usage, captures, mentions, social media and citations. Sometimes this is referred to as altmetrics. This part of the panel will include a discussion of what Texas A&M has discovered by tracking metrics across disciplines including output for the humanities. It will also showcase some other use cases of metrics in institutional repositories, analytics reports and researcher dashboards."
   subtype: presentation
-  speakers: []
+  speakers: [24,6,25,26]
   language: en
   complexity: "Expert"
 #  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
@@ -250,7 +250,7 @@ At the 2015 VIVO Conference, we presented ReCiter, a Java-based tool which uses 
 ReCiter employs 15 separate strategies for disambiguation. The range of data used spans six systems of records: Of ce of Faculty Affairs, Human Resources, alumni database, student database, physician pro le system, and the grants management system. For our test set of data, we have established which data are most powerful in contributing to overall accuracy. These include: known co- investigators, known department, and year of doctoral degree.
 Our team has designed ReCiter to be generalizable. Our goal is to determine if the high accuracy we note can be achieved at other sites. The code will be shared with the community."
   subtype: presentation
-  speakers: []
+  speakers: [11]
   language: en
   complexity: "Expert"
 #  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
@@ -354,7 +354,7 @@ critical pathway for discoverability for research networking platforms. UCSF Pro
 The  rst annual SEO State of the Union 2015 broke down real-world SEO performance for over  fty public research networking sites. We will present updated  ndings for 2016, including a detailed overview of how different implementations and platforms rate in terms of search engine discoverability, stratifying by platform and type of deployment.
 We will present  ve key  ndings into the real- world factors that impact search engine traf c, both at the level of the entire site, and also between different pro le pages on the same site. These  ndings will be helpful at every stage of the research networking process, from product evaluation/selection to the promotion of mature platforms."
   subtype: presentation
-  speakers: []
+  speakers: [19]
   language: en
   complexity: "Expert"
 #  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
@@ -388,7 +388,7 @@ We will describe a reusable toolkit we have developed that utilizes SPARQL based
   title: "Towards Deeper RNS User Engagement: How to Get Users to Sign in for Personalized Content"
   description: "UCSF proposes to present an update to last year’s presentation on Leveraging Personalized Google Analytics Information for Greater RNS Engagement. We have launched a personalized dashboard and promoted it in various ways. We would like to share our learnings with the RNS community including progress on getting pro le page owners to sign in for personalized content and what we can learn from their signed-in behavior. We’ll also discuss ideas for next steps."
   subtype: presentation
-  speakers: []
+  speakers: [18]
   language: en
   complexity: "Expert"
 #  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
@@ -408,7 +408,7 @@ a richer web user experience, the ability to “crowd source” disambiguated da
 Conclusion
 CTSAsearch and CrossLinks demonstrate that substantial value can be added to the current research networking landscape through integration of these data. Our future work in this area will include enhanced ability to interconnect these systems and to visualize the resulting aggregated information space."
   subtype: presentation
-  speakers: []
+  speakers: [20]
   language: en
   complexity: "Expert"
 #  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
@@ -431,7 +431,7 @@ early adopter phase and ‘go live’ with their own VIVO. As Registered Service
 Institutions who adopt VIVO still struggle to  nd a focus for the ‘stock’ version. For it to be an effective showcase of an institution’s data, there needs to be consideration of usability and design to realise its full potential, to make it
 a true centre of the expertise of an institution. Many institutions do not always have the resource or expertise to achieve this."
   subtype: presentation
-  speakers: []
+  speakers: [8]
   language: en
   complexity: "Expert"
 #  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
@@ -488,7 +488,7 @@ to help streamline dossier submissions as
 well as to encourage maintenance of Duke's VIVO implementation, Scholars@Duke.
 With the help of the APT committee and the VIVO widgets, users can generate (client- side) a simple CV in a Word document. The Scholars@Duke team is working to enhance the CV by adding a number of user-maintained  elds. Phase two of the Scholars CV will take many months and a lot of development effort -- will the APT committee like it? And more importantly, will faculty use it? Get the inside scoop at this presentation."
   subtype: presentation
-  speakers: []
+  speakers: [15,21,22]
   language: en
   complexity: "Expert"
 #  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
@@ -528,7 +528,7 @@ some layout and design improvements can work wonders on the stock VIVO interface
 with products such as Altmetric,  gshare and The Conversation to help further enrich and showcase institutional data and expertise.
 "
   subtype: presentation
-  speakers: []
+  speakers: [8]
   language: en
   complexity: "Expert"
 #  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
@@ -544,7 +544,7 @@ of granularity required and by facets that are helpful. In addition, they would 
 the search results by relevance or other factors to provide context for the results listed. Also, some users are seeking a very speci c set of results and need an 'advanced' search that’s easy to use.
 Our proposed enhancement of the Scholars@ Duke search functionality seeks to address those limitations by enhancing our basic search to provide more effective  ltering of search results, enabling the search results to be sorted by relevance, and adding new advanced search capabilities."
   subtype: presentation
-  speakers: []
+  speakers: [15]
   language: en
   complexity: "Expert"
 #  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
@@ -560,7 +560,7 @@ than one category, the percentile rank of times cited is calculated separately a
 is then calculated and, in turn, used in the bar chart. Because recently published articles have had little time to accumulate citations, articles from the past two to three years are deliberately excluded from the charts.
 The code will be shared with the community"
   subtype: presentation
-  speakers: []
+  speakers: [11]
   language: en
   complexity: "Expert"
 #  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
@@ -580,7 +580,7 @@ This presentation will re ect on Symplectic’s second year as a Registered Serv
   title: "Usability vs. Purity: How UCSF and Duke Enabled Data Reuse By Going Beyond Linked Data"
   description: "Duke and UCSF have come up with ways to make their research networking platforms indispensable at their institutions, winning friends and allies, and strengthening the case for renewed funding. Others can do this too — but only if we retro t VIVO, Pro les, and other platforms with simple data reuse mechanisms. In this session, we’ll talk about techniques for developers, traf c growth on downstream sites, and researcher engagement. We’ll look at examples of sites that consume VIVO and Pro les data and talk about what it’s like to share data across nearly 50 local websites and apps."
   subtype: presentation
-  speakers: []
+  speakers: [15,19,20,21,18]
   language: en
   complexity: "Expert"
 #  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
@@ -606,7 +606,7 @@ to preserve the receiving VIVO instance’s brand and to handle discrepancies be
 [2] https://www.unavco.org/
 [3] http://earthcube.org/group/earthcollab"
   subtype: presentation
-  speakers: []
+  speakers: [5]
   language: en
   complexity: "Expert"
 #  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
@@ -630,7 +630,7 @@ How our experiment is able to deal with these issues, and the level of intervent
 of extending VIVO for a humanities purpose should be of interest to a segment of VIVO conference attendees and community members. We hope to show that VIVO4HP provides an example that other humanists can build upon
 to represent, facilitate discovery of, and share linked data about historical persons."
   subtype: presentation
-  speakers: []
+  speakers: [16]
   language: en
   complexity: "Expert"
 #  presentation: "https://figshare.com/articles/Scholarly_Infrastructure_Sustainability_and_Community/3792069"
