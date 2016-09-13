@@ -68,7 +68,7 @@ heroButtons:
 aboutTitle: "About VIVO Conference"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "This year's VIVO conference creates a unique opportunity for people from across the country and around the world to come together in the spirit of promoting scholarly collaboration and research discovery." }
- - {title: "Networking", image: "workshop.jpg", text: "The VIVO conference is an excellent opportunity to meet with VIVO team members from participating institutions, and offers an open and collaborative environment to share ideas and discuss topics related to adoption and implementation of VIVO, VIVO-based tools and the opportunities created by advancing data sharing and team science." }
+ - {title: "Networking", image: "networking.jpg", text: "The VIVO conference is an excellent opportunity to meet with VIVO team members from participating institutions, and offers an open and collaborative environment to share ideas and discuss topics related to adoption and implementation of VIVO, VIVO-based tools and the opportunities created by advancing data sharing and team science." }
  - {title: "Workshops", image: "workshop.jpg", text: "A day of interactive tutorials, designed to help improve your VIVO projects." }
 
 # Statistic Block
