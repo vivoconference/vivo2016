@@ -1,5 +1,5 @@
 - 
-  id: 1
+  id: "SorenAuer"
   name: "Sören"
   surname: "Auer"
   company: "Universität Bonn & Fraunhofer IAIS"
@@ -10,7 +10,7 @@
 #  social: 
 #    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 - 
-  id: 2
+  id: "DarioTaraborelli"
   name: "Dario"
   surname: "Taraborelli"
   company: "Wikimedia Foundation"
@@ -23,7 +23,7 @@
 #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
 #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
-  id: 3
+  id: "RubenVerborgh"
   name: "Ruben"
   surname: "Verborgh"
   company: "Ghent University"
@@ -38,7 +38,7 @@
 #    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
 #    - {name: "twitter", link: "https://twitter.com/mherych"}
 - 
-  id: 4
+  id: "PedroSzekely"
   name: "Pedro"
   surname: "Szekely"
   company: "USC Information Sciences Institute"
@@ -52,7 +52,7 @@
 #    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
 #    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
 - 
-  id: 5
+  id: "SandyPayette"
   name: "Sandy"
   surname: "Payette"
   company: "Cornell University Library"
@@ -66,7 +66,7 @@
 #    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
 #    - {name: "site", link: "http://olostan.name/"}
 -
-  id: 6
+  id: "LaurelHaak"
   name: "Laurel"
   surname: "Haak"
   company: "ORCID"
@@ -77,7 +77,7 @@ of Science. Laure received a BS and an MS in Biology from Stanford University an
 National Institutes of Health."
   thumbnailUrl: LaurelHaak.jpg
 -
-  id: 7
+  id: "JenniferLin"
   name: "Jennifer"
   surname: "Lin"
   company: "CrossRef"
@@ -87,7 +87,7 @@ National Institutes of Health."
   social: 
     - {name: "twitter", link: "http://twitter.com/jenniferlin15"}
 -
-  id: 8
+  id: "SimonPorter"
   name: "Simon"
   surname: "Porter"
   company: "Digital Science"
@@ -99,7 +99,7 @@ capability to create new opportunities for researchers. Over the past three year
 Simon was the the program chair of the third annual VIVO conference held in Miami."
   thumbnailUrl: SimonPorter.jpg
 -
-  id: 9
+  id: "MikeConlon"
   name: "Mike"
   surname: "Conlon"
   company: "VIVO"
@@ -108,7 +108,7 @@ Simon was the the program chair of the third annual VIVO conference held in Miam
 as VIVO Project Director for Duraspace. Dr. Conlon formerly served as Co-director of the University of Florida Clinical and Translational Science Institute, and as Director of Biomedical Informatics, UF College of Medicine. His responsibilities included expansion and integration of research and clinical resources, and strategic planning for translational research. Previously, Dr. Conlon served as PI of the VIVO project, leading a team of 180 investigators at seven schools in the development, implementation and advancement of an open source, semantic web application for research discovery. Dr. Conlon has served as Chief Information Of cer of the University of Florida Health Science Center where he directed network and video services, desktop support, media and graphics, application development, teaching support, strategic planning and distance learning. His current interests include representation of scholarship, and research data sharing and reuse."
   thumbnailUrl: MikeConlon.jpg
 -
-  id: 10
+  id: "GrahamTriggs"
   name: "Graham"
   surname: "Triggs"
   company: "VIVO"
@@ -116,7 +116,7 @@ as VIVO Project Director for Duraspace. Dr. Conlon formerly served as Co-directo
   bio: ""
   thumbnailUrl: GrahamTriggs.jpg
 -
-  id: 11
+  id: "PaulAlbert"
   name: "Paul"
   surname: "Albert"
   company: "Weill Cornell Medicine"
@@ -124,7 +124,7 @@ as VIVO Project Director for Duraspace. Dr. Conlon formerly served as Co-directo
   bio: ""
 #  thumbnailUrl: GrahamTriggs.jpg
 -
-  id: 12
+  id: "BrianLowe"
   name: "Brian"
   surname: "Lowe"
   company: "Ontocale"
@@ -132,7 +132,7 @@ as VIVO Project Director for Duraspace. Dr. Conlon formerly served as Co-directo
   bio: ""
 #  thumbnailUrl: GrahamTriggs.jpg
 -
-  id: 13
+  id: "AndiOgier"
   name: "Andi"
   surname: "Ogier"
   company: ""
@@ -140,7 +140,7 @@ as VIVO Project Director for Duraspace. Dr. Conlon formerly served as Co-directo
   bio: ""
   thumbnailUrl: AndiOgier.jpg
 -
-  id: 14
+  id: "MichaeleenTrimarchi"
   name: "Michaeleen"
   surname: "Trimarchi"
   company: ""
@@ -148,7 +148,7 @@ as VIVO Project Director for Duraspace. Dr. Conlon formerly served as Co-directo
   bio: ""
 #  thumbnailUrl: GrahamTriggs.jpg
 -
-  id: 15
+  id: "JuliaTrimmer"
   name: "Julia"
   surname: "Trimmer"
   company: "Duke"
@@ -156,7 +156,7 @@ as VIVO Project Director for Duraspace. Dr. Conlon formerly served as Co-directo
   bio: ""
   thumbnailUrl: JuliaTrimmer.jpg
 -
-  id: 16
+  id: "AlexViggio"
   name: "Alex"
   surname: "Viggio"
   company: "CU Boulder"
@@ -164,112 +164,244 @@ as VIVO Project Director for Duraspace. Dr. Conlon formerly served as Co-directo
   bio: ""
   thumbnailUrl: AlexViggio.png
 - 
-  id: 17
+  id: "VioletaIlik"
   name: "Violeta"
   surname: "Ilik"
   thumbnailUrl: VioletaIlik.jpg
 -
-  id: 18
+  id: "BrianTurner"
   name: "Brian"
   surname: "Turner"
   company: "UCSF"
 -
-  id: 19
+  id: "AnirvanChatterjee"
   name: "Anirvan"
   surname: "Chatterjee"
   company: "UCSF"
 -
-  id: 20
+  id: "EricMeeks"
   name: "Eric"
   surname: "Meeks"
   company: "UCSF"
 -
-  id: 21
+  id: "RichardOutten"
   name: "Richard"
   surname: "Outten"
   company: ""
 -
-  id: 22
+  id: "GregBurton"
   name: "Greg"
   surname: "Burton"
   company: "Duke"
 -
-  id: 23
+  id: "RickJohnson"
   name: "Rick"
   surname: "Johnson"
   company: ""
 -
-  id: 24
+  id: "BruceHerbert"
   name: "Bruce"
   surname: "Herbert"
   company: ""
 -
-  id: 25
+  id: "AndreaMichalek"
   name: "Andrea"
   surname: "Michalek"
   company: ""
 -
-  id: 26
+  id: "MarianneParkhill"
   name: "Marianne"
   surname: "Parkhill"
   company: ""
 -
-  id: 27
+  id: "MichaelBales"
   name: "Michael"
   surname: "Bales"
   company: ""
 -
-  id: 28
+  id: "JieLin"
   name: "Jie"
   surname: "Lin"
   company: ""
 -
-  id: 29
+  id: "SteveJohnson"
   name: "Steve"
   surname: "Johnson"
   company: ""
 -
-  id: 30
+  id: "ValrieMinson"
   name: "Valrie"
   surname: "Minson"
   company: ""
 -
-  id: 31
+  id: "SaraGonzalez"
   name: "Sara"
   surname: "Gonzalez"
   company: ""
 -
-  id: 32
+  id: "JudithRussell"
   name: "Judith"
   surname: "Russell"
   company: ""
 -
-  id: 33
+  id: "JonathanBreeze"
   name: "Jonathan"
   surname: "Breeze"
   company: "Symplectic"
 -
-  id: 34
+  id: "JeffDougherty"
   name: "Jeff"
   surname: "Dougherty"
   company: "Symplectic"
 -
-  id: 35
+  id: "MichaelMetcalf"
   name: "Michael"
   surname: "Metcalf"
   company: "Symplectic"
 -
-  id: 36
+  id: "SabihAli"
   name: "Sabih"
   surname: "Ali"
   company: "Symplectic"
 -
-  id: 37
+  id: "JuliaHawks"
   name: "Julia"
   surname: "Hawks"
   company: "Symplectic"
 -
-  id: 38
+  id: "JohnGieschen"
   name: "John"
   surname: "Gieschen"
   company: "Symplectic"
+-
+  id: "ChristopherBarnes"
+  name: "Christopher"
+  surname: "Barnes"
+-
+  id: "KevinHanson"
+  name: "Kevin"
+  surname: "Hanson"
+-
+  id: "JohnMarkOckerbloom"
+  name: "John Mark"
+  surname: "Ockerbloom"
+-
+  id: "JamesKing"
+  name: "James"
+  surname: "King"
+-
+  id: "JessicaHernandezBerrellez"
+  name: "Jessica"
+  surname: "Hernandez Berrellez"
+-
+  id: "NicholeRosamilia"
+  name: "Nichole"
+  surname: "Rosamilia"
+-
+  id: "BenHope"
+  name: "Ben"
+  surname: "Hope"
+-
+  id: "MashanaDavis"
+  name: "Mashana"
+  surname: "Davis"
+-
+  id: "BridgetBurns"
+  name: "Bridget"
+  surname: "Burns"
+-
+  id: "TedLawless"
+  name: "Ted"
+  surname: "Lawless"
+  company: "Thomson Reuters"
+-
+  id: "NicholasRejack"
+  name: "Nicholas"
+  surname: "Rejack"
+-
+  id: "DeanKrafft"
+  name: "Dean"
+  surname: "Krafft"
+  company: "Cornell"
+-
+  id: "StevenMcCauley"
+  name: "Steven"
+  surname: "McCauley"
+-
+  id: "DavidEichmann"
+  name: "David"
+  surname: "Eichmann"
+-
+  id: "AlexandreRademaker"
+  name: "Alexandre"
+  surname: "Rademaker"
+-
+  id: "FabricioChalub"
+  name: "Fabricio"
+  surname: "Chalub"
+-
+  id: "BenjaminGross"
+  name: "Benjamin"
+  surname: "Gross"
+-
+  id: "LindaRowan"
+  name: "Linda"
+  surname: "Rowan"
+-
+  id: "MatthewMayernik"
+  name: "Matthew"
+  surname: "Mayernik"
+-
+  id: "MichaelDaniels"
+  name: "Michael"
+  surname: "Daniels"
+-
+  id: "AnneWilson"
+  name: "Anne"
+  surname: "Wilson"
+-
+  id: "JohnFurfey"
+  name: "John"
+  surname: "Furfey"
+-
+  id: "UlyssesCannon"
+  name: "Ulysses"
+  surname: "Cannon"
+-
+  id: "PrakashAdekkanattu"
+  name: "Prakash"
+  surname: "Adekkanattu"
+-
+  id: "TerrieWheeler"
+  name: "Terrie"
+  surname: "Wheeler"
+-
+  id: "HudaKhan"
+  name: "Huda"
+  surname: "Khan"
+  company: "Cornell"
+-
+  id: "KeithMaull"
+  name: "Keith"
+  surname: "Maull"
+-
+  id: "MikeDaniels"
+  name: "Mike"
+  surname: "Daniels"
+-
+  id: "SteveWilliams"
+  name: "Steve"
+  surname: "Williams"
+-
+  id: "EricaJohns"
+  name: "Erica"
+  surname: "Johns"
+-
+  id: "TheaLindquist"
+  name: "Thea"
+  surname: "Lindquist"
+-
+  id: "MarijaneWhite"
+  name: "Marijane"
+  surname: "White"
+
